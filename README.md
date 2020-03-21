@@ -8,7 +8,7 @@ Lets create a postcard with HTML5 and CSS and then you can share it with your mo
 
 Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true).
 
-<p align="center"><img height="300px" url="https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true" /></p>
+<p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true" /></p>
 
 Here the url for 4Geeks logo: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
 
