@@ -1,0 +1,16 @@
+{
+	"title" : "Digital Postcard",
+	"slug" : "postcard",
+	"status": "published",
+	"solution": "https://bitbucket.org/codingacademy/postcard",
+	"duration" : 4,
+	"description" : "Replicate this postcard with CSS and HTML",
+	"talents": [
+		{ "badge": "identator", "points": 10 },
+		{ "badge": "tag-master", "points": 10 },
+		{ "badge": "path-master", "points": 10 },
+		{ "badge": "select-everything", "points": 10 },
+		{ "badge": "be-dry", "points": 10 },
+		{ "badge": "abc", "points": 10 }
+	]
+}
