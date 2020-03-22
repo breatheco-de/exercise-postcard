@@ -4,6 +4,8 @@
 	"status": "published",
 	"solution": "https://bitbucket.org/codingacademy/postcard",
 	"duration" : 4,
+	"difficulty": "beginner",
+	"technologies": ["html","css"],
 	"description" : "Replicate this postcard with CSS and HTML",
 	"preview": "https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true",
 	"talents": [
