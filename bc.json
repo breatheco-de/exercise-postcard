@@ -5,6 +5,7 @@
 	"solution": "https://bitbucket.org/codingacademy/postcard",
 	"duration" : 4,
 	"description" : "Replicate this postcard with CSS and HTML",
+	"preview": "https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png",
 	"talents": [
 		{ "badge": "identator", "points": 10 },
 		{ "badge": "tag-master", "points": 10 },
