@@ -14,7 +14,7 @@ Here the url for 4Geeks logo: [http://assets.breatheco.de/apis/img/icon/4geeks.p
 
 ## Create by drawing your strategy
 
-![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/master/strategy.png?raw=true)
+![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/master/strategy.gif?raw=true)
 
 ## What to do if you are stuck?
 
