@@ -2,7 +2,7 @@
 	"title" : "Digital Postcard",
 	"slug" : "postcard",
 	"status": "published",
-	"translations": ["es", "en"],
+	"translations": ["es", "us"],
 	"solution": "https://bitbucket.org/codingacademy/postcard",
 	"duration" : 4,
 	"difficulty": "beginner",
