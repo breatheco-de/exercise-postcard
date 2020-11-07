@@ -1,6 +1,6 @@
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Postcard
 
-Who does not like postcard's? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
+Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
 
 Lets create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
 
