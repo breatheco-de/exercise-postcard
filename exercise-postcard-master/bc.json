@@ -1,0 +1,71 @@
+{
+	"title" : "Digital Postcard",
+	"slug" : "postcard",
+	"status": "published",
+	"translations": ["es", "us"],
+	"solution": "https://github.com/breatheco-de/exercise-postcard/tree/solution",
+	"duration" : 4,
+	"difficulty": "beginner",
+	"technologies": ["html","css"],
+	"description" : "Replicate this postcard with CSS and HTML",
+	"preview": "https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true",
+	"talents": [
+		{ "badge": "identator", "points": 10 },
+		{ "badge": "tag-master", "points": 10 },
+		{ "badge": "path-master", "points": 10 },
+		{ "badge": "select-everything", "points": 10 },
+		{ "badge": "be-dry", "points": 10 },
+		{ "badge": "abc", "points": 10 }
+	],
+	"video-id": "WbZ4W4SoM0c",
+	"timeline":[
+		{
+			"seconds": "1",
+			"description": "Introduction"
+		},
+		{
+			"seconds": "38",
+			"description": "Create sublime project"
+		},
+		{
+			"seconds": "79",
+			"description": "Download Sublime 3"
+		},
+		{
+			"seconds": "173",
+			"description": "Basic HTML5 Structure"
+		},
+		{
+			"seconds": "479",
+			"description": "Creating the HTML for the website"
+		},
+		{
+			"seconds": "515",
+			"description": "Linking the website to an CSS Style Sheet"
+		}	,
+		{
+			"seconds": "687",
+			"description": "Centering the postcard Vertically and Horizontally"
+		}	,
+		{
+			"seconds": "996",
+			"description": "Using float to divide the postcard in to sides"
+		}	,
+		{
+			"seconds": "1346",
+			"description": "Working with overflow: hidden"
+		},
+		{
+			"seconds": "1554",
+			"description": "Copying colors from other websites"
+		},
+		{
+			"seconds": "1745",
+			"description": "Using Google fonts in your website"
+		}	,
+		{
+			"seconds": "1999",
+			"description": "Using FORMS"
+		}	
+	]
+}
