@@ -1,20 +1,19 @@
-## How should I start?
+## Let's start building
 
-To start building our website we need to identify what are the tags that we need to use for this postcard.
+First things first, all websites need a basic HTML template that includes one `<body>`, one `<head>`, etc. Please add the basic the following basic HTML content to your website.
 
-## But how can you identify what tags to use?
+Note: Delete all the previous content on the `index.html` and paste this:
 
-Think about it like an Text document in Microsoft Word, there is an HTML `<tag>` for almost anything you can do in a text document: paragraphs, strong or italic text, headings, images, etc.
-
-Memorize the 6 most important HTML tags and what they do: 
-
-| tag                   | usage                 |
-| -----------------     | --------------------- |
-| `<p>`                 | for paragraphs        |
-| `<button>`            | for buttons           |
-| `<img>`               | for images            |
-| `<h1>` `<h2>` `<h3>`  | titles (headings), `h1` is the biggest, h6 the smallest |
-| `<div>`               | split your website in squares (boxes)  |
-| `<input>`             | allows visitors to input information  |
-
-Click `next →` to continue to the next page.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- start adding new tags here -->
+</body>
+</html>
+```
