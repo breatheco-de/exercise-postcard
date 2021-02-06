@@ -126,7 +126,7 @@
             "description": "Using FORMS"
         }
     ],
-    "session": 4523084106310653000,
+    "session": 4177004680315674600,
     "exercises": [
         {
             "position": 0,
@@ -150,6 +150,26 @@
         },
         {
             "position": 1,
+            "path": ".learn/exercises/01.1-instructions",
+            "slug": "01.1-instructions",
+            "translations": {
+                "us": "README.md"
+            },
+            "language": null,
+            "entry": null,
+            "title": "01.1-instructions",
+            "graded": false,
+            "files": [
+                {
+                    "path": ".learn/exercises/01.1-instructions/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 2,
             "path": ".learn/exercises/02-create-index",
             "slug": "02-create-index",
             "translations": {
@@ -174,7 +194,7 @@
             "done": false
         },
         {
-            "position": 2,
+            "position": 3,
             "path": ".learn/exercises/03-add-p-tag",
             "slug": "03-add-p-tag",
             "translations": {
@@ -199,25 +219,40 @@
             "done": false
         },
         {
-            "position": 3,
-            "path": ".learn/exercises/04-build-your-website",
-            "slug": "04-build-your-website",
+            "position": 4,
+            "path": ".learn/exercises/04-how-to-start",
+            "slug": "04-how-to-start",
             "translations": {
                 "us": "README.md"
             },
-            "language": "node",
+            "language": null,
             "entry": null,
-            "title": "04-build-your-website",
-            "graded": true,
+            "title": "04-how-to-start",
+            "graded": false,
             "files": [
                 {
-                    "path": ".learn/exercises/04-build-your-website/README.md",
+                    "path": ".learn/exercises/04-how-to-start/README.md",
                     "name": "README.md",
                     "hidden": true
-                },
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 5,
+            "path": ".learn/exercises/05-the-strategy",
+            "slug": "05-the-strategy",
+            "translations": {
+                "us": "README.md"
+            },
+            "language": null,
+            "entry": null,
+            "title": "05-the-strategy",
+            "graded": false,
+            "files": [
                 {
-                    "path": ".learn/exercises/04-build-your-website/test.js",
-                    "name": "test.js",
+                    "path": ".learn/exercises/05-the-strategy/README.md",
+                    "name": "README.md",
                     "hidden": true
                 }
             ],

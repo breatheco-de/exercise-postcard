@@ -1,1 +1,10 @@
 .theia
+
+!/.learn
+/.learn/**
+!/.learn/resets
+!/.learn/resets/**
+!/.learn/assets
+!/.learn/assets/**
+!/.learn/exercises
+!/.learn/exercises/**

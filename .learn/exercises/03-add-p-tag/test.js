@@ -1,9 +1,12 @@
 const fs = require("fs");
 
-
-test("Add a p tag", function(){
+test("The file index.html should exist", function(){
     const indexExists = fs.existsSync("index.html");
+    expect(indexExists).toBe(true);
+})
+
+test("Add the following HTML to your index.html", function(){
     const content = fs.readFileSync("index.html", 'utf8')
-    const expected = /<p>\s*Hello\s*World\s*<\/p>/;
+    const expected = /\s*Hello\s*from\s*<strong>\s*Earth\s*<\/strong>\s*/;
     expect(content).toEqual(expect.stringMatching(expected));
 })
