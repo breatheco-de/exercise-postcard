@@ -2,6 +2,7 @@
     "title": "Build a Digital Postcard with HTML/CSS",
     "slug": "postcard",
     "status": "published",
+    "grading": "incremental",
     "translations": [
         "es",
         "us"
