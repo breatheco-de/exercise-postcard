@@ -7,7 +7,7 @@
             "version": "1.0.52"
         },
         "dirPath": "./.learn",
-        "configPath": "bc.json",
+        "configPath": "learn.json",
         "outputPath": ".learn/dist",
         "publicPath": "/preview",
         "grading": "isolated",
@@ -126,7 +126,7 @@
             "description": "Using FORMS"
         }
     ],
-    "session": 3282927581252614700,
+    "session": 4523084106310653000,
     "exercises": [
         {
             "position": 0,
@@ -175,23 +175,23 @@
         },
         {
             "position": 2,
-            "path": ".learn/exercises/03-p-tag",
-            "slug": "03-p-tag",
+            "path": ".learn/exercises/03-add-p-tag",
+            "slug": "03-add-p-tag",
             "translations": {
                 "us": "README.md"
             },
             "language": "node",
             "entry": null,
-            "title": "03-p-tag",
+            "title": "03-add-p-tag",
             "graded": true,
             "files": [
                 {
-                    "path": ".learn/exercises/03-p-tag/README.md",
+                    "path": ".learn/exercises/03-add-p-tag/README.md",
                     "name": "README.md",
                     "hidden": true
                 },
                 {
-                    "path": ".learn/exercises/03-p-tag/test.js",
+                    "path": ".learn/exercises/03-add-p-tag/test.js",
                     "name": "test.js",
                     "hidden": true
                 }
