@@ -1,8 +1,10 @@
-## Let's start building
+## `06` Let's start building
 
 First things first, all websites need a basic HTML template that includes one `<body>`, one `<head>`, etc. Please add the basic the following basic HTML content to your website.
 
-Note: Delete all the previous content on the `index.html` and paste this:
+### 📝 Instructions 
+
+Delete all the previous content inside the `index.html` and paste this:
 
 ```html
 <!DOCTYPE html>
@@ -17,3 +19,5 @@ Note: Delete all the previous content on the `index.html` and paste this:
 </body>
 </html>
 ```
+
+Every website starts with this skeleton, if you build your website you'll see that is white (empty) but only because the `<head>` is invisible to the website visitors, only tags you add to the `<body>` are visible in any website.

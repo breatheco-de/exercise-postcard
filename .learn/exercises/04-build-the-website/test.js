@@ -1,7 +1,10 @@
 const fs = require("fs");
+const path = require("path");
 
 test("Build your website using the build icon on the top of the instructions", function(){
-    const indexExists = fs.existsSync("../../dist/index.html");
+    const dirPath = path.join(__dirname, '/../../dist');
+    const files = fs.readdirSync(dirPath);
+    const indexExists = fs.existsSync(`${dirPath}/index.html`);
     expect(indexExists).toBe(true);
 })
 
