@@ -6,7 +6,7 @@ Lets create a postcard with HTML5 and CSS and then you can share it with your mo
 
 ## Instructions
 
-Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true).
+Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/preview.png?raw=true).
 
 <p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/preview.png?raw=true" /></p>
 
@@ -14,7 +14,7 @@ Here the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard
 
 ## Create by drawing your strategy
 
-![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/master/strategy.gif?raw=true)
+![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/strategy.png?raw=true)
 
 ## What to do if you are stuck?
 
