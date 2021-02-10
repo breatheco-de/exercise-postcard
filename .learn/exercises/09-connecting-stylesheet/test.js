@@ -1,5 +1,7 @@
 const fs = require("fs");
 const path = require("path");
+const { fromFile, fromHTML } = require("../../utils");
+const dom = fromFile();
 
 test("Make sure you have your index.html", function(){
     const indexExists = fs.existsSync(`./index.html`);
@@ -17,16 +19,17 @@ test("Make sure your styles.css contains the expected style", function(){
     expect(content).toEqual(expect.stringMatching(expected));
 })
 
-test("Make sure your index.html contains the <link> tag", function(){
-    const content = fs.readFileSync("./index.html", 'utf8')
-    document.documentElement.innerHTML = content.toString();
-    const linkTag = _document.querySelector("link")
-    expect(linkTag).not.toBe(null);
+test("Make sure your index.html contains the <head> tag", function(){
+    const _dom = dom.insideTags('head')
+    expect(_dom).not.toBe(null);
 })
 
 test("Make sure the <link> tag is a child (inside) of the <head></head> tags", function(){
-    const content = fs.readFileSync("./index.html", 'utf8')
-    document.documentElement.innerHTML = content.toString();
-    const linkTag = _document.querySelector("head link")
-    expect(linkTag).not.toBe(null);
+    const _dom = dom.insideTags('head').querySelector('link')
+    expect(_dom).not.toBe(null);
+})
+
+test("Make sure the <link> tag href property is poiting to styles.css", function(){
+    const _dom = dom.insideTags('head').querySelector('link')
+    expect(_dom.href).toBe("http://localhost/styles.css");
 })

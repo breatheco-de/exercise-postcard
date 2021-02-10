@@ -1,14 +1,24 @@
 const fs = require("fs");
 const path = require("path");
-const htmlContent = fs.readFileSync("./index.html", 'utf8')
+const { fromFile, fromHTML } = require("../../utils");
+const dom = fromFile();
 
 test("Make sure you have your index.html", function(){
     const indexExists = fs.existsSync(`./index.html`);
     expect(indexExists).toBe(true);
 })
 
-test("Make sure there is a div with the class postcard inside the body tags", function(){
-    document.documentElement.innerHTML = htmlContent.toString();
-    const linkTag = _document.querySelector("div.postcard")
+test("The website <body></body> tags must not be empty", function(){
+    const empty = dom.isEmpty()
+    expect(empty).toBe(false);
+})
+
+test("Make sure there is a div with the class postcard", function(){
+    const linkTag = dom.querySelector("div.postcard")
     expect(linkTag).not.toBe(null);
+})
+
+test("Make sure the div with class postcard is inside the body tags", function(){
+    const found = dom.insideTags('body').querySelector("div.postcard")
+    expect(found).not.toBe(null);
 })
