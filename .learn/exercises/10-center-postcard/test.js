@@ -1,6 +1,9 @@
 const fs = require("fs");
 const path = require("path");
 
+let htmlContent = 
+const htmlContent = fs.readFileSync("./index.html", 'utf8')
+
 test("Make sure you have your index.html", function(){
     const indexExists = fs.existsSync(`./index.html`);
     expect(indexExists).toBe(true);
