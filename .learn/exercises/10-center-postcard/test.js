@@ -1,5 +1,7 @@
 const fs = require("fs");
 const path = require("path");
+const { fromFile, fromHTML } = require("../../utils/dom");
+let dom = fromFile();
 
 test("Make sure you have your index.html", function(){
     const indexExists = fs.existsSync(`./index.html`);
@@ -11,16 +13,22 @@ test("Make sure you created the styles.css file", function(){
     expect(indexExists).toBe(true);
 })
 
-test("Make sure your index.html contains the <link> tag", function(){
-    const content = fs.readFileSync("./index.html", 'utf8')
-    document.documentElement.innerHTML = content.toString();
-    const linkTag = _document.querySelector("link")
-    expect(linkTag).not.toBe(null);
+test("Make sure your index.html contains the <head> tag", function(){
+    const _dom = dom.insideTags('head')
+    expect(_dom).not.toBe(null);
 })
 
-test("Make sure the <link> tag is a child (inside) of the <head></head> tags", function(){
-    const content = fs.readFileSync("./index.html", 'utf8')
-    document.documentElement.innerHTML = content.toString();
-    const linkTag = _document.querySelector("head link")
-    expect(linkTag).not.toBe(null);
+test("Create a .postcard selector on your stylesheet", function(){
+    dom = dom.withStylesheet();
+    dom.selector('.postcard')
+})
+
+test("Create a .postcard selector on your stylesheet", function(){
+    dom = dom.withStylesheet();
+    dom.selector('.postcard').hasStyles({
+        background: "white",
+        width: "400px",
+        height: "300px",
+        margin: "auto",
+    })
 })

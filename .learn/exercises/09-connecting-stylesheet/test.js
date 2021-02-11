@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { fromFile, fromHTML } = require("../../utils");
+const { fromFile, fromHTML } = require("../../utils/dom");
 const dom = fromFile();
 
 test("Make sure you have your index.html", function(){

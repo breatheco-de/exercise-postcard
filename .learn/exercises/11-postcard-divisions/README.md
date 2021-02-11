@@ -4,13 +4,13 @@ Now we have to continue strategyzing about our HTML, we need to continue dividin
 
 ![Postcard Divisions](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/11-postcard-divisions.gif?raw=true)
 
-Inside your `<div class="postcard">` add three divs that all three of them are immediate childs of it.
+Inside your `<div class="postcard">` add three additional divs, all three of them are immediate childs.
 
-```
-- .postcard
-    - .postcard-header
-    - .postcard-body
-    - .postcard-footer
+```txt
+1. .postcard
+    1.1. .postcard-header
+    1.2. .postcard-body
+    1.3. .postcard-footer
 ```
 
-Please make sure the divs have the specified classes, the first of the 3 dics should have the class `postcard-header`, the second one `postcard-body` and the third one `postcard-footer`, you don't have to include the dot symbols in the HTML document, you will only use the dots in the CSS.
+Please make sure the divs have the specified classes, the first of the 3 divs should have the class `postcard-header`, the second one `postcard-body` and the third one `postcard-footer`, you don't have to include the dot symbol in your class name, you will only use the dots in the CSS.
