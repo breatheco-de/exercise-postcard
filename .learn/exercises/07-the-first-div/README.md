@@ -2,7 +2,7 @@
 
 Now that we have our basic structure its time to add our first element inside the `<body></body>` tags.
 
-It is recomended that most of the time the first element inside the body its a `<div>`, (div stangs for division, basically they are great tools to split your website in several sections).
+It is recomended that most of the time the first element inside the body its a `<div>`, (div stands for division, basically they are great tools to split your website in several sections).
 
 ![step-1](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/07-the-first-div.png?raw=true)
 
