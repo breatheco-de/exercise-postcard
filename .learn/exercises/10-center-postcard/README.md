@@ -4,7 +4,7 @@ You website is black, but your postcard should have a white backgound.
 
 To apply colors, sizes or any style to an element we need to first specify (or "select") the element in our CSS stylsheet.
 
-For example, if you want to apply color to all the `<p>` tags in your website you can type in your stylesheet:
+For example, if you want to apply color blue to all the `<p>` tags in your website you can type in your stylesheet:
 
 ```css
 p{
