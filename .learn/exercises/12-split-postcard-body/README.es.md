@@ -1,12 +1,12 @@
-## `12` Split the postcard body
+## `12` Diviendo el body de la postcard
 
-We also have to divide the postcard-body in two more divs because we need to put them one on the side of the other, this can only be done using separate divs.
+También tenemos que dividir el body de la postcard o postal, es decir hay que añadirle dos divs más al postcard-body para ponerlos uno al lado del otro, esto solo puedes lograrlo usando dos divs separados.
 
 ![Split Postcard Body](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/12-split-postcard-body.gif?raw=true)
 
-# 📝 Instructions
+# 📝 Instrucciones
 
-1. Include two new divs inside the `.postcard-body` div, these two divs have to be siblings of each other (same level) but they both share the same parent divs (`postcard-body` div is the parent).
+1. Agrega dos nuevos divs dentro del div `.postcard-body`, estos dos divs deben ser parientes (estar en el mismo nivel) pero tener el mismo div padre (el div `postcard-body`es el padre).
 
 ```txt
 1 .postcard
