@@ -4,7 +4,9 @@ Now we have to continue strategyzing about our HTML, we need to continue dividin
 
 ![Postcard Divisions](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/11-postcard-divisions.gif?raw=true)
 
-Inside your `<div class="postcard">` add three additional divs, all three of them are immediate childs.
+## 📝 Instructions
+
+ - Inside your `<div class="postcard">` add three additional divs, all three of them are immediate childs.
 
 ```txt
 1. .postcard
