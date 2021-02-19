@@ -5,15 +5,15 @@ If you build your website and preview you will come to the following conclusions
 1. The image needs to be on the right instead of below the title.
 2. We need to make the image smaller.
 
-To move the image towards the right of the title we can use the `display:flex`. 
-When you apply the display:flex propery to any div, all its childs will organize horitonally instead of vertially (like default).
+To move the image towards the right we can use the `display:flex`. 
+When you apply the `display:flex` property to any div, all its childs will organize horizontally instead of vertically (like default).
 
 ![display flex vs block](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/display-block-vs-flex.png?raw=true)
 
 On the other hand, to make the image smaller we have to use `width` and `height` css properties.
 ## Instructions
 
-1. Apply a display:flex property to the `.postcard-header`
+1. Apply a `display:flex` property to the `.postcard-header`.
 2. Apply a smaller width and height to the image tag located inside the `.postcard-header`, you can make it a lot smaller, maybe `50px x 50px`
 3. Make the h1 a lot bigger to push the image towards the right side of the postcard.
 4. Remove margins from the h1
