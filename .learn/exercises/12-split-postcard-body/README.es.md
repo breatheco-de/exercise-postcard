@@ -19,10 +19,10 @@ También tenemos que dividir el body de la postcard o postal, es decir hay que a
     1.3 .postcard-footer
 ```
 
-The first of this two divs must have the class `body-left` and the other `body-right`.
+Nota: El primer `<div>` debe tener la clase `body-left` y el que esta justo debajo debe tener la clase `body-right`.
 
-2. Apply the css rule `display: flex` to the postcard-body to make its childs organize horizontally.
+2. Aplica el estilo `display: flex` a el div .postcard-body para que sus hijos se organicen orizontalmente.
 
-This is how your website should look like this: 
+Asi es como tu website debe lucir despues de estos cambios:
 
 ![postcard body preview](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/VZS6rNiYfC.gif?raw=true)

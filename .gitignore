@@ -1,12 +1,8 @@
 .theia
 
-!/.learn
-/.learn/**
-!/.learn/resets
-!/.learn/resets/**
-!/.learn/assets
-!/.learn/assets/**
-!/.learn/exercises
-!/.learn/exercises/**
-!/.learn/utils
-!/.learn/utils/**
+.learn/_app
+.learn/.session
+.learn/dist
+.learn/reports
+app.tar.gz
+config.json

@@ -1,4 +1,4 @@
-## `10` Centrat la Postal o la Postcard
+## `10` Centrando la Postcard
 
 Tu sitio web está de color negro, pero tu postal o postcard debería tener un fondo blanco.
 
@@ -18,9 +18,9 @@ Hay tres formas de seleccionar (o especificar) los elementos a los que quieras a
 
 ## 📝 Instrucciones
 
-Dentro de la etiqueta `<body>` hay un div con la clase o class "postcard" que seráa nuestra caja blanca.
+Dentro de la etiqueta `<body>` hay un div con la clase o class "postcard" que será nuestra caja blanca.
 
-Por favor crea un un selector de clase o class `.postcard` dentro de tu archivo styles.css y ponle un fondo blanco o `background` white, un ancho de `400px`, una altura de `300px`y un margen o margin `auto`(para centrar horizontalmente el div).
+Por favor crea un un selector de tipo clase (usando el punto `.`) `.postcard` dentro de tu archivo styles.css y ponle un fondo blanco o `background` white, un ancho de `400px`, una altura de `300px`y un margen o margin `auto`(para centrar horizontalmente el div).
 
 ```css
 .postcard{
@@ -29,3 +29,7 @@ Por favor crea un un selector de clase o class `.postcard` dentro de tu archivo 
 ```
 
 Nota: el `margin: auto;` centrará horizontalmente la caja.
+
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website.

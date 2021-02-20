@@ -23,7 +23,7 @@ test("Create a .postcard selector on your stylesheet", function(){
     dom.selector('.postcard')
 })
 
-test("Create a .postcard selector on your stylesheet", function(){
+test("Add the background, width, height and margin CSS rules to your class", function(){
     dom = dom.withStylesheet();
     dom.selector('.postcard').hasStyles({
         background: "white",

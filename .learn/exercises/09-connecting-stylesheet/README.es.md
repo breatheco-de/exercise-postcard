@@ -1,6 +1,6 @@
 ## `09` Conectando tus estilos
 
-En tu archivo styles.css hemos especificado que el `body` de tu sitio web waté en blanco.
+En tu archivo styles.css hemos especificado que el `body` de tu sitio web en color negro.
 
 Conectémos tu `styles.css` con tu `index.html` usando una etiqueta o tag `<link>`.
 

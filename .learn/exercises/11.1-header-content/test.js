@@ -32,10 +32,10 @@ test("Create an heading 1 inside the .postcard-header div", function(){
 
 test("The h1 inside postcard header should say 'My Postcard'", function(){
     const e =dom.querySelector('.postcard-header').inside().querySelector('h1')
-    expect(e.innerHTML).toEqual(expect.stringContaining("My Postcard"));
+    expect(e.innerHTML.toLowerCase()).toEqual(expect.stringContaining("My Postcard".toLowerCase()));
 })
 
-test("The image tag should contain the give url as src", function(){
+test("The image tag should contain the given URL as src, E.g: <img src='the_image_src_goes_here' />", function(){
     const e =dom.querySelector('.postcard-header').inside().querySelector('img')
     expect(e.src).toEqual(expect.stringContaining('https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc850bd92aa1c2e19191837fb5c80/.learn/assets/4geeks.png'));
 })

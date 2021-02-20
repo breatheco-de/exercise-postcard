@@ -30,3 +30,7 @@ Please create a class selector `.postcard` inside your styles.css file and bame 
 ```
 
 Note: the `margin: auto;` will center the box horizontally.
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!

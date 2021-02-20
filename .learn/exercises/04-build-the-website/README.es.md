@@ -2,7 +2,7 @@
 
 Es hora de ver cómo se ven los cambios en tu sitio web.
 
-¡ Luego haz clic en botón `build` en la esquina superior izquierda, sobre la instrucciones para ver tu website en vivo! 
+Luego, haz clic en botón `build` en la esquina superior izquierda, sobre la instrucciones para ver tu website en vivo. 
 
 ![build button](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/build.png?raw=true) 
 

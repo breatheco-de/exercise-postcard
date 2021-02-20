@@ -1,5 +1,11 @@
 ## `11.2` Header Styles
 
+```txt
+⚠️ Note: We are going to be a little bit more flexible with the tests 
+because we want to leave you space to try things on your own, please 
+compare your website preview with the expected image and keep trying!
+```
+
 If you build your website and preview you will come to the following conclusions:
 
 1. The image needs to be on the right instead of below the title.

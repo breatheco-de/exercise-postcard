@@ -4,7 +4,7 @@ Ahora tenemos que seguir armando la estrategia para nuestro HTML, tenemos que co
 
 ![Postcard Divisions](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/11-postcard-divisions.gif?raw=true)
 
-## 📝 Instructiones 
+## 📝 Instrucciones 
 
 - Dentro de tu `<div class="postcard">` añade tres divs adicionales, los tres son hijos directos de ese div.
 
