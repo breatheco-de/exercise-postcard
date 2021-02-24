@@ -1,6 +1,6 @@
 # `11.1` Header Content
 
-No its time to include our content inside the `.postcad-header` div.
+Now its time to include our content inside the `.postcad-header` div.
 
 The postcard header contains one title and one image. 
 
@@ -11,7 +11,7 @@ What tags do you think we should use?
 - Please add one `h1` tag inside the .postcard-header with the postcard title.
 - Also add an `<img>` tag inside the .postcard-header with the following image url: 
 
-```
+```text
 https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc850bd92aa1c2e19191837fb5c80/.learn/assets/4geeks.png
 ```
 

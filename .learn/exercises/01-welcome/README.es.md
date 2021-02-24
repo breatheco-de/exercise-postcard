@@ -1,7 +1,8 @@
 # Bienvenido al "Digital Postcard"
 
-I'm really happy to have you here, this exercise is meant for people just learning how to code in HTML/CSS.
+Estoy muy contento de tenerte aquí, este ejercicio es para perosnal que están recién aprendiendo a programar con 
+HTML/CSS.
 
-If you are using Gitpod, please take 10min to watch this video and get familiar with the environment.
+Si estás usando Gitpod, por favor tómate 10 min para ver este video y así familiarizarte con el entorno.
 
-Click on the `next ➡` button on the top right corner of the screen ↗ when you are ready to continue.
+Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando estes list@ para continuar.

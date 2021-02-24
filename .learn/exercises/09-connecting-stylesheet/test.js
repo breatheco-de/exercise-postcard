@@ -29,7 +29,7 @@ test("Make sure the <link> tag is a child (inside) of the <head></head> tags", f
     expect(_dom).not.toBe(null);
 })
 
-test("Make sure the <link> tag href property is poiting to styles.css", function(){
+test("Make sure the <link> tag href property is pointing to styles.css", function(){
     const _dom = dom.insideTags('head').querySelector('link')
     expect(_dom.href).toBe("http://localhost/styles.css");
 })

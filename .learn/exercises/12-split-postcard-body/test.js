@@ -25,7 +25,7 @@ test("Create a div inside the .postcard-body and add the class .body-left to it"
     expect(e).toBeTruthy();
 })
 
-test("Create a div inside the .postcard-body and add the class .body-right to it", function(){
+test("Create another div inside the .postcard-body and add the class .body-right to it", function(){
     const e=dom.querySelector('.postcard-body').inside().querySelector('div.body-right')
     expect(e).toBeTruthy();
 })

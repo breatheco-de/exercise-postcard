@@ -13,4 +13,4 @@ This code is going to add a red dashed border to every element in the website ma
 
 ![Red Borders](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/red-borders.png?raw=true)
 
-Node: This code will be removed at the end.
+Note: This code will be removed once you finish your postcard.

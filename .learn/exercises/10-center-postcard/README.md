@@ -4,7 +4,7 @@ You website is black, but your postcard should have a white backgound.
 
 To apply colors, sizes or any style to an element we need to first specify (or "select") the element in our CSS stylsheet.
 
-For example, if you want to apply color to all the `<p>` tags in your website you can type in your stylesheet:
+For example, if you want to apply color blue to all the `<p>` tags in your website you can type in your stylesheet:
 
 ```css
 p{
@@ -30,3 +30,7 @@ Please create a class selector `.postcard` inside your styles.css file and bame 
 ```
 
 Note: the `margin: auto;` will center the box horizontally.
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
