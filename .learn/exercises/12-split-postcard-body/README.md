@@ -1,8 +1,8 @@
 ## `12` Split the postcard body
 
-We also have to divide the postcard-body in two more divs because we need to put them one on the side of the other, this can only be done using separate divs.
+We also have to divide the postcard-body in two inner divs because we need to put them **one on the side** of the other, this can only be done by assigning `display: flex` to their shared parent.
 
-![Split Postcard Body](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/12-split-postcard-body.gif?raw=true)
+![Split Postcard Body](../assets/12-split-postcard-body.gif?raw=true)
 
 # 📝 Instructions
 
@@ -21,7 +21,7 @@ We also have to divide the postcard-body in two more divs because we need to put
 
 The first of this two divs must have the class `body-left` and the other `body-right`.
 
-2. Apply the css rule `display: flex` to the postcard-body to make its childs organize horizontally.
+2. Apply the css rule `display: flex` to the postcard-body to make both of its childs organize horizontally.
 
 This is how your website should look like: 
 

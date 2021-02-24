@@ -2,7 +2,7 @@
 
 También tenemos que dividir el body de la postcard o postal, es decir hay que añadirle dos divs más al postcard-body para ponerlos uno al lado del otro, esto solo puedes lograrlo usando dos divs separados.
 
-![Split Postcard Body](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/12-split-postcard-body.gif?raw=true)
+![Split Postcard Body](../assets/12-split-postcard-body.gif?raw=true)
 
 # 📝 Instrucciones
 
