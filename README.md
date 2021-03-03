@@ -2,7 +2,7 @@
 
 Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
 
-Lets create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
+Let's create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
 
 ## Instructions
 
@@ -10,7 +10,7 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://gi
 
 <p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/preview.png?raw=true" /></p>
 
-Here the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/4geeks.png?raw=true)
+Here is the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/4geeks.png?raw=true)
 
 ## Create by drawing your strategy
 
