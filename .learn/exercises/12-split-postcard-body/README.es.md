@@ -25,4 +25,4 @@ Nota: El primer `<div>` debe tener la clase `body-left` y el que esta justo deba
 
 Asi es como tu website debe lucir despues de estos cambios:
 
-![postcard body preview](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/VZS6rNiYfC.gif?raw=true)
+![postcard body preview](../assets/VZS6rNiYfC.gif?raw=true)

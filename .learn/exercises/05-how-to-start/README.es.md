@@ -2,8 +2,8 @@
 
 Para comenzar a construir tu sitio web tienes que identificar cuales `<etiquetas>` (tags) que necesitas para el diseño de este sitio web en particular. Observa esta animación que te muestra que etiquetas o tags debieses usar en esta postal o postcard:
 
-![HTML Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/strategy.gif?raw=true)
-[Haz clic aquí para agrandarla](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/strategy.gif)
+![HTML Postcard Strategy](../assets/strategy.gif?raw=true)
+[Haz clic aquí para agrandarla](../assets/strategy.gif)
 
 ## Pero ¿Cómo puedes identificar que etiquetas o tags utilizar?
 

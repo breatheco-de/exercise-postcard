@@ -25,4 +25,4 @@ The first of this two divs must have the class `body-left` and the other `body-r
 
 This is how your website should look like: 
 
-![postcard body preview](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/VZS6rNiYfC.gif?raw=true)
+![postcard body preview](../assets/VZS6rNiYfC.gif?raw=true)

@@ -11,6 +11,6 @@ To be able to debug better the application, we strongly recomend to include the 
 
 This code is going to add a red dashed border to every element in the website making them easier to see and debug.
 
-![Red Borders](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/red-borders.png?raw=true)
+![Red Borders](../assets/red-borders.png?raw=true)
 
 Note: This code will be removed once you finish your postcard.

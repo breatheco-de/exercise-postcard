@@ -21,4 +21,4 @@ https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc85
 
 Si le haces `build` a tu página deberia verse asi:
 
-![Header Content Preview](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/header-content.png?raw=true)
+![Header Content Preview](../assets/header-content.png?raw=true)

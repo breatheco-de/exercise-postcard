@@ -14,7 +14,7 @@ If you build your website and preview you will come to the following conclusions
 To move the image towards the right we can use the `display:flex`. 
 When you apply the `display:flex` property to any div, all its childs will organize horizontally instead of vertically (like default).
 
-![display flex vs block](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/display-block-vs-flex.png?raw=true)
+![display flex vs block](../assets/display-block-vs-flex.png?raw=true)
 
 On the other hand, to make the image smaller we have to use `width` and `height` css properties.
 ## Instructions
@@ -26,4 +26,4 @@ On the other hand, to make the image smaller we have to use `width` and `height`
 
 At the end your exercise should look similar to this one:
 
-![Preview](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/header-styles.png?raw=true)
+![Preview](../assets/header-styles.png?raw=true)

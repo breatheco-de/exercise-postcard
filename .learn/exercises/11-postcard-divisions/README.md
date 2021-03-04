@@ -2,7 +2,7 @@
 
 Now we have to continue strategyzing about our HTML, we need to continue dividing the postcard in pieces we can easly style and control.
 
-![Postcard Divisions](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/11-postcard-divisions.gif?raw=true)
+![Postcard Divisions](../assets/11-postcard-divisions.gif?raw=true)
 
 ## 📝 Instructions
 

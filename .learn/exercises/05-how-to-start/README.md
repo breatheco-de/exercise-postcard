@@ -2,8 +2,8 @@
 
 To start building you website you need to identify what are the tags needed for this particular website design. Take a look at this animation that shows you what tags should be used on this postcard:
 
-![HTML Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/strategy.gif?raw=true)
-[click to expand](https://github.com/breatheco-de/exercise-postcard/blob/learnpack/.learn/assets/strategy.gif)
+![HTML Postcard Strategy](../assets/strategy.gif?raw=true)
+[click to expand](../assets/strategy.gif)
 
 ## But how can you identify what tags to use?
 
