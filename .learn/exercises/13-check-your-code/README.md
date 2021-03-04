@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=zChIjQQ52is
+---
+
 ## `13` Postcard footer
 
 The last part will be our footer, what is the only element present in the footer?

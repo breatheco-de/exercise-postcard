@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=rzDFkhUgZks
+---
+
 ## `09` Connecting your styles
 
 In the styles.css file we have specified that we want the `body` of your website to be black.

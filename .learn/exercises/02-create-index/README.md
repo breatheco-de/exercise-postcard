@@ -1,4 +1,8 @@
-### 📝 First instructions
+---
+tutorial: https://www.youtube.com/watch?v=-ewDD9VJE80
+---
+
+## 📝 First instructions
 
 All websites in the world must start with a file called `index.html`, you have to manually create it and the computer will recognize it as the `entry point` of your application.
 

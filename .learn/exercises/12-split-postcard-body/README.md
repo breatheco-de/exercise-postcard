@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=EZ20QN091wM
+---
+
 ## `12` Split the postcard body
 
 We also have to divide the postcard-body in two inner divs because we need to put them **one on the side** of the other, this can only be done by assigning `display: flex` to their shared parent.

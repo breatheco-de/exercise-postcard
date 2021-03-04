@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=bB7MLP37zqk
+---
+
 ## `07` The first div
 
 Now that we have our basic structure its time to add our first element inside the `<body></body>` tags.

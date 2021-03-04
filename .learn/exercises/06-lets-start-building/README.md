@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=DWUqB5mVVT0
+---
+
 ## `06` Let's start building
 
 First things first, all websites need a basic HTML template that includes one `<body>`, one `<head>`, etc. Please add the basic the following basic HTML content to your website.

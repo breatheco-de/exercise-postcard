@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=gP1Qu3j1WTQ
+---
+
 ## `12.1` Postcard-body content
 
 What elements should be inside the postcard body? Can you try and identify based on the HTML tags we mentioned earlier?

@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=dj4OZQm4DSo
+---
+
 ## `11` Postcard Divisions
 
 Now we have to continue strategyzing about our HTML, we need to continue dividing the postcard in pieces we can easly style and control.

@@ -1,3 +1,7 @@
+---
+tutorial: https://www.youtube.com/watch?v=EbkgFTqpRxc
+---
+
 ## `08` Adding styles
 
 If you build your website right now, you will see that it only says "Hello", the `div` we just added is invisible, lets change that.
