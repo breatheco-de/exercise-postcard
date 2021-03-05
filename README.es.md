@@ -6,15 +6,15 @@ Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre
 
 ## Instrucciones
 
-Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true).
+Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png).
 
-<p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/master/preview.png?raw=true" /></p>
+<p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true" /></p>
 
 Aquí tienes el url del logo de 4Geeks: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
 
 ## Empieza por dibujar tu estrategia
 
-![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/master/strategy.gif?raw=true)
+![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/strategy.gif?raw=true)
 
 ## ¿Qué hacer si estás atascado?
 
