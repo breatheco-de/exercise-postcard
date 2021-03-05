@@ -6,7 +6,7 @@ Lets create a postcard with HTML5 and CSS and then you can share it with your mo
 
 ## Instructions
 
-Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/main/preview.png?raw=true).
+Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png).
 
 <p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/strategy.gif?raw=true" /></p>
 
