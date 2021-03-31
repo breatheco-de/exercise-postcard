@@ -4,6 +4,18 @@ Who does not like postcards? This is one of your first exercises (if not the fir
 
 Lets create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
 
+## 🌱  How to start this project
+
+1. This project comes with the necessary files to start working, but you have two options to start:
+
+a) Open this link in your browser with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git
+
+b) You can clone this repository on your local computer:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-postcard.git
+```
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
 ## Instructions
 
 Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png).
