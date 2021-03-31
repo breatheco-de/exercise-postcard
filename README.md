@@ -6,7 +6,7 @@ Lets create a postcard with HTML5 and CSS and then you can share it with your mo
 
 ## 🌱  How to start this project
 
-1. This project comes with the necessary files to start working, but you have two options to start:
+This project comes with the necessary files to start working, but you have two options to start:
 
 a) Open this link in your browser with gitpod (recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git 
 
