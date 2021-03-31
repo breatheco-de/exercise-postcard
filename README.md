@@ -8,7 +8,7 @@ Lets create a postcard with HTML5 and CSS and then you can share it with your mo
 
 1. This project comes with the necessary files to start working, but you have two options to start:
 
-a) Open this link in your browser with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git
+a) Open this link in your browser with gitpod (recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git 
 
 b) You can clone this repository on your local computer:
 ```sh
@@ -20,7 +20,7 @@ $ git clone https://github.com/breatheco-de/exercise-postcard.git
 
 Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png).
 
-<p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/strategy.gif?raw=true" /></p>
+<p><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/strategy.gif?raw=true" /></p>
 
 Here the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true)
 
