@@ -8,14 +8,14 @@ Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod en tu navegador(recomendada): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard
+a) Abrir este link con Gitpod en tu navegador (recomendada): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard
 
 b) Clonar este repositorio localmente en tu computador:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-postcard
 ```
 
-💡 Importante: Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Importante: Para salvar el proyecto en github recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## Instrucciones
 
