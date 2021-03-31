@@ -4,11 +4,24 @@
 
 Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre o con tu otra mitad, ¡él / ella se va a sentir orgulloso/a! :)
 
+## 🌱  Cómo iniciar este proyecto
+
+Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
+
+a) Abrir este link con Gitpod en tu navegador(recomendada): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard
+
+b) Clonar este repositorio localmente en tu computador:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-postcard
+```
+
+💡 Importante: Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
 ## Instrucciones
 
 Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png).
 
-<p align="center"><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true" /></p>
+<p><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true" /></p>
 
 Aquí tienes el url del logo de 4Geeks: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
 
