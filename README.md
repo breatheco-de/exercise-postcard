@@ -6,11 +6,11 @@ Lets create a postcard with HTML5 and CSS and then you can share it with your mo
 
 ## 🌱  How to start this project
 
-This project comes with the necessary files to start working, but you have two options to start:
+You need a gitpod.io account to start this project, if you don't have it please make sure to create one using your Github.com credentials (github login).
 
-Open this link in your browser with gitpod (recommended) by clicking here: https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git 
+Open this link in your browser with Gitpod by clicking here: https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git 
 
-The exercises will run automatically but if you encounter any issues make sure run in your commadline the following command:
+The exercises will start and show the instructions automatically but if you encounter any issues you can try running them manually by typing in your command line the following:
 
 ```
 $ learnpack start
