@@ -10,7 +10,7 @@
     "repository": "https://github.com/breatheco-de/exercise-postcard",
     "solution": "https://github.com/breatheco-de/exercise-postcard/tree/solution",
     "duration": 4,
-    "language": "html",
+    "language": "auto",
     "skills": [
         "html-layouts"
     ],
