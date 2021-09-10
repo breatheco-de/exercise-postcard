@@ -23,8 +23,8 @@ Also think about what styles are you going to apply:
 
 1. The first `<p>` does not need a margin top.
 2. `.body-left` and `.body-right` must have padding to separate text from the edges of the boxes.
-3. The inputs have a botton border in grey but no borders on sides and top.
-4. The paragraphs and/or paragraphs may have a particular font-size.
+3. The inputs have a `bottom-border` in grey but no borders on the sides and top.
+4. The paragraphs and/or paragraphs may have a particular `font-size`.
 
 This is how your website should look like so far:
 
