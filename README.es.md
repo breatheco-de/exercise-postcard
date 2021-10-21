@@ -19,7 +19,7 @@ $ git clone https://github.com/breatheco-de/exercise-postcard
 
 ## Instrucciones
 
-Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png).
+Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png).
 
 <p><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true" /></p>
 
