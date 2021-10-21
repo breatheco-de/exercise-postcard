@@ -28,7 +28,7 @@ $ learnpack start
 
 ## Instructions
 
-Create the HTML and CSS needed to replicate [this exact same picture](./.learn/assets/preview.png?raw=true).
+Create the HTML and CSS needed to replicate [this exact same picture](https://github.com/breatheco-de/exercise-postcard/raw/main/.learn/assets/strategy.gif?raw=true).
 
 
 <p><img height="300px" src="https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/strategy.gif?raw=true" /></p>
@@ -37,7 +37,7 @@ Here is the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postc
 
 ## Create by drawing your strategy
 
-![Postcard Strategy](./.learn/assets/strategy.gif?raw=true)
+![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/raw/main/.learn/assets/strategy.gif?raw=true)
 
 ## What to do if you are stuck?
 
