@@ -8,7 +8,7 @@ Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod en tu navegador (recomendada): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard
+a) Abrir este enlace con Gitpod en tu navegador (recomendado): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard
 
 b) Clonar este repositorio localmente en tu computador:
 ```sh
