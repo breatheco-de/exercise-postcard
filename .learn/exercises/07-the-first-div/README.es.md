@@ -6,7 +6,7 @@ La mayoría de las veces el primer elementro dentro del body es un  `<div>`, (di
 básicamente son una herramienta genial para dividir tu sitio web en varias secciones).
 
 
-![paso 1](../assets/07-the-first-div.png?raw=true)
+![paso 1](../../assets/07-the-first-div.png?raw=true)
 
 ## 📝 Instrucciones
 

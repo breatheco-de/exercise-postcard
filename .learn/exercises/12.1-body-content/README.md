@@ -8,7 +8,7 @@ What elements should be inside the postcard body? Can you try and identify based
 
 Possible options: Headings (h1,h2,h3, etc.), Paragraphs, Images, Divisions, Inputs, Checkbox, etc.
 
-![Postcard body content](../assets/12.1-body-content.gif)
+![Postcard body content](../../assets/12.1-body-content.gif)
 
 ## 📝 Instructions
 
@@ -28,7 +28,7 @@ Also think about what styles are you going to apply:
 
 This is how your website should look like so far:
 
-![Postcard body content](../assets/12.1.png)
+![Postcard body content](../../assets/12.1.png)
 
 
 

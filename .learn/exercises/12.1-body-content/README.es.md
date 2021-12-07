@@ -4,7 +4,7 @@
 
 Posibles opciones: Headings (h1,h2,h3, etc.), Párrafos, Imágenes, Divs, Inputs, Checkbox, etc.
 
-![Postcard body content](../assets/12.1-body-content.gif)
+![Postcard body content](../../assets/12.1-body-content.gif)
 
 ## 📝 Instructiones:
 
@@ -25,7 +25,7 @@ También piensa en que estilos vas a aplicar:
 Así debería verse tu sitio web:
 
 
-![Postcard body content](../assets/12.1.png)
+![Postcard body content](../../assets/12.1.png)
 
 
 

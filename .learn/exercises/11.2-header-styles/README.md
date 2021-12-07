@@ -30,4 +30,4 @@ On the other hand, to make the image smaller we have to use `width` and `height`
 
 At the end your exercise should look similar to this one:
 
-![Preview](../assets/header-styles.png?raw=true)
+![Preview](../../assets/header-styles.png?raw=true)

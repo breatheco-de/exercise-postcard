@@ -2,7 +2,7 @@
 
 También tenemos que dividir el body de la postcard o postal, es decir hay que añadirle dos divs más al postcard-body para ponerlos uno al lado del otro, esto solo puedes lograrlo usando dos divs separados.
 
-![Split Postcard Body](../assets/12-split-postcard-body.gif?raw=true)
+![Split Postcard Body](../../assets/12-split-postcard-body.gif?raw=true)
 
 # 📝 Instrucciones
 
@@ -25,4 +25,4 @@ Nota: El primer `<div>` debe tener la clase `body-left` y el que esta justo deba
 
 Asi es como tu website debe lucir despues de estos cambios:
 
-![postcard body preview](../assets/VZS6rNiYfC.gif?raw=true)
+![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)

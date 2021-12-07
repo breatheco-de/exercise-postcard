@@ -6,7 +6,7 @@ tutorial: https://www.youtube.com/watch?v=zChIjQQ52is
 
 The last part will be our footer, what is the only element present in the footer?
 
-![Postcard body content](../assets/13.gif)
+![Postcard body content](../../assets/13.gif)
 
 ## 📝 Instructions
 

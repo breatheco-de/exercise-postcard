@@ -6,7 +6,7 @@ tutorial: https://www.youtube.com/watch?v=dj4OZQm4DSo
 
 Now we have to continue strategyzing about our HTML, we need to continue dividing the postcard in pieces we can easly style and control.
 
-![Postcard Divisions](../assets/11-postcard-divisions.gif?raw=true)
+![Postcard Divisions](../../assets/11-postcard-divisions.gif?raw=true)
 
 ## 📝 Instructions
 

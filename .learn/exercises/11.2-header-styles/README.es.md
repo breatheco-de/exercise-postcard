@@ -8,7 +8,7 @@ Si haces en clic en build y previsualizas el postcard o postal llegarás a las s
 Para mover el imagen hacia la derecha puedes usar `display:flex`.
 Cuando aplicas la propiedad `display:flex` a cualquier div, todos sus hijos se organizarán horizontalmente en vez de verticalmente (por defecto)
 
-![display flex vs block](../assets/display-block-vs-flex.png?raw=true)
+![display flex vs block](../../assets/display-block-vs-flex.png?raw=true)
 
 Por otro lado, para que la imagen sea más pequeña hay que usar las propiedades css `width` que seignifica ancho y `height` que significa altura.
 
@@ -21,4 +21,4 @@ Por otro lado, para que la imagen sea más pequeña hay que usar las propiedades
 
 Una vez que termines tu ejercicio debiera verse similar a este:
 
-![Preview](../assets/header-styles.png?raw=true)
+![Preview](../../assets/header-styles.png?raw=true)
