@@ -50,5 +50,5 @@ This exercise covers the following fundamentals:
 3. Using the different selectors available in CSS.
 4. Working with boxes: border, padding and margins.
 5. Overflow.
-6. Using a simple form.
+6. Using a simple form
 
