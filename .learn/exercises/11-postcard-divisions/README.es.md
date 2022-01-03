@@ -2,7 +2,7 @@
 
 Ahora tenemos que seguir armando la estrategia para nuestro HTML, tenemos que continuar dividiendo la postcard o postal en pedazos para poder aplicarle estilos y manejarla con facilidad
 
-![Postcard Divisions](../assets/11-postcard-divisions.gif?raw=true)
+![Postcard Divisions](../../assets/11-postcard-divisions.gif?raw=true)
 
 ## 📝 Instrucciones 
 

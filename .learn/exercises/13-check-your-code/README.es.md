@@ -2,7 +2,7 @@
 
 La última parte será el pie de la postcard, ¿cuál es el único elemento presente allí?
 
-![Postcard body content](../assets/13.gif)
+![Postcard body content](../../assets/13.gif)
 
 ## 📝 Instrucciones
 

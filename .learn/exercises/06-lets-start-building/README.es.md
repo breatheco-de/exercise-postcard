@@ -1,6 +1,7 @@
 ## `06` Empezemos a construir
 
 Primero lo primero, todos los sitios web tienen un formato HTML básiso que incluye un `<body>`, un`<head>`, etc.
+
 Por favor añade el siguiente contenido HTML básico a tu sitio web.
  
 

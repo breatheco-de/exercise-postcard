@@ -6,7 +6,7 @@ tutorial: https://www.youtube.com/watch?v=EZ20QN091wM
 
 We also have to divide the postcard-body in two inner divs because we need to put them **one on the side** of the other, this can only be done by assigning `display: flex` to their shared parent.
 
-![Split Postcard Body](../assets/12-split-postcard-body.gif?raw=true)
+![Split Postcard Body](../../assets/12-split-postcard-body.gif?raw=true)
 
 # 📝 Instructions
 
@@ -29,4 +29,4 @@ The first of this two divs must have the class `body-left` and the other `body-r
 
 This is how your website should look like: 
 
-![postcard body preview](../assets/VZS6rNiYfC.gif?raw=true)
+![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
