@@ -1,4 +1,4 @@
-## `08` Estilos para depurar
+# `08` Estilos para depurar
 
 Para poder depurar mejor la aplicación, te recomendamos incluir los siguientes estilos dentro de tu style.css.
 
@@ -15,8 +15,8 @@ Este código añadirá un borde rojo con un línea discontinua a cada elemento d
 
 Nota: Este código se elimina luego de que termines tu postcard.
 
-## 😄 Apreta el botón "build"
+## 😄 Presiona el botón "build"
 
-Apreta el botón "build" para que veas como va quedando tu website..
+Presiona el botón "build" para que veas como va quedando tu website.
 
 Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 
