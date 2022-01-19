@@ -1,4 +1,4 @@
-## `07` El primer div
+# `07` El primer div
 
 Ahora que tienes la estructura básica es hora de añadir nuestro primer elemento dentro de las etiquetas o tags `<body></body>`.
 
@@ -8,7 +8,7 @@ básicamente son una herramienta genial para dividir tu sitio web en varias secc
 
 ![paso 1](../../assets/07-the-first-div.png?raw=true)
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
 - Añade un nuevo div entre las etiquetas de apertura y de cierre de `<body></body>`, de esta forma:
 
@@ -24,8 +24,8 @@ básicamente son una herramienta genial para dividir tu sitio web en varias secc
 
 - Asegúrate también de escribir la palabra `Hello` entre las etiquetas de apertura y cierre del body.
  
-## 😄 Apreta el botón "build"
+## 😄 Presiona el botón "build"
 
-Apreta el botón "build" para que veas como va quedando tu website..
+Presiona el botón "build" para que veas como va quedando tu website.
 
 Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 
