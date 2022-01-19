@@ -19,3 +19,9 @@ Add the following code anywere inside the opening and closing `<head></head>` ta
 ```
 
 Note: if the connection between CSS and HTML was successfull, your website should be **black** after you build.
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

@@ -23,3 +23,9 @@ básicamente son una herramienta genial para dividir tu sitio web en varias secc
 - Asegúrate que la etiqeuta `<div>` esté cerrada.
 
 - Asegúrate también de escribir la palabra `Hello` entre las etiquetas de apertura y cierre del body.
+ 
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website..
+
+Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 

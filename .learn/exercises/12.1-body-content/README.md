@@ -30,6 +30,9 @@ This is how your website should look like so far:
 
 ![Postcard body content](../../assets/12.1.png)
 
+## 😄 Build your website!
 
+Build your website to see how it's looking!
 
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.
 

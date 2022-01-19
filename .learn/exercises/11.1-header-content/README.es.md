@@ -16,9 +16,10 @@ En el diseño que debemos realizar, el postcad-header tiene un título (a la izq
 ```txt
 https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc850bd92aa1c2e19191837fb5c80/.learn/assets/4geeks.png
 ```
-
 ## ✅ Comprueba tu resultado
 
 Si le haces `build` a tu página deberia verse asi:
 
 ![Header Content Preview](../../assets/header-content.png?raw=true)
+
+Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando estes list@ para continuar.

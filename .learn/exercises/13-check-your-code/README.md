@@ -14,3 +14,9 @@ The last part will be our footer, what is the only element present in the footer
 2. Apply `text-align: center;` rule to the `.postcard-footer` class, that style will help align all of the `<div>` content to the center (the button will be centered). 
 3. Apply also a darker background to the button.
 4. Lastly apply a padding to the button.
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

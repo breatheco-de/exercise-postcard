@@ -14,3 +14,9 @@ This code is going to add a red dashed border to every element in the website ma
 ![Red Borders](../../assets/red-borders.png?raw=true)
 
 Note: This code will be removed once you finish your postcard.
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

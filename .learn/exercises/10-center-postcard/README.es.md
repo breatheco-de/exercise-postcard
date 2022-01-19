@@ -32,4 +32,6 @@ Nota: el `margin: auto;` centrará horizontalmente la caja.
 
 ## 😄 Apreta el botón "build"
 
-Apreta el botón "build" para que veas como va quedando tu website.
+Apreta el botón "build" para que veas como va quedando tu website..
+
+Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 

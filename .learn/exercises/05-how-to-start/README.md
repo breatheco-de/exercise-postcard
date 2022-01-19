@@ -20,4 +20,4 @@ Memorize the 6 most important HTML tags and what they do:
 | `<div>`               | split your website in squares (boxes)  |
 | `<input>`             | allows visitors to input information  |
 
-Click `next →` to continue to the next page.
+Click `next →` to continue to the next exercise.

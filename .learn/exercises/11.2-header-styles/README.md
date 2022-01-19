@@ -31,3 +31,9 @@ On the other hand, to make the image smaller we have to use `width` and `height`
 At the end your exercise should look similar to this one:
 
 ![Preview](../../assets/header-styles.png?raw=true)
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

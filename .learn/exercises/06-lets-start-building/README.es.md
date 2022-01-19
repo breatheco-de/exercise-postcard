@@ -24,3 +24,8 @@ Elimina todo el contenido dentro del archivo `index.html` y pega lo siguiente:
 ```
 
 Todos los sitios web comienzan con este esqueleto, si construyes tu sitio web o le das clic al botón build verás que está en blanco (vacío) pero es solo porque el `<head>` es invisible para el sitio web de los usuarios, sólo las etiquetas o tags que añadas dentro del `<body>`son visibles en cualquier sitio web.
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website..
+
+Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 

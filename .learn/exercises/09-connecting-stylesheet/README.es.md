@@ -15,3 +15,9 @@ Añade el siguiente código dentro de las etiquetas de apertura y cierre de `<he
 ```
 
 Nota: si la conexión entre CSS y HTML fue exitosa, tu sitio web debería tener un fondo **negro** luego de hacer clic en build.
+
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website.
+
+Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 

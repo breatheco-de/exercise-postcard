@@ -25,3 +25,10 @@ Delete all the previous content inside the `index.html` and paste this:
 ```
 
 Every website starts with this skeleton, if you build your website you'll see that is white (empty) but only because the `<head>` is invisible to the website user, only tags you add to the `<body>` are visible in any website.
+
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

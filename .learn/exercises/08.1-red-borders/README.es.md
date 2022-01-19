@@ -14,3 +14,9 @@ Este código añadirá un borde rojo con un línea discontinua a cada elemento d
 ![Red Borders](../../assets/red-borders.png?raw=true)
 
 Nota: Este código se elimina luego de que termines tu postcard.
+
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website..
+
+Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 

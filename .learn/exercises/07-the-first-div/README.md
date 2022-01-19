@@ -25,3 +25,9 @@ It is recomended that most of the time the first element inside the body its a `
 - Make sure the `<div>` tag is closed.
 
 - Also make sure to write the word `Hello` between the opening and closing body tags.
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

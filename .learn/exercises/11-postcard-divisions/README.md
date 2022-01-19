@@ -20,3 +20,9 @@ Now we have to continue strategyzing about our HTML, we need to continue dividin
 ```
 
 Please make sure the divs have the specified classes, the first of the 3 divs should have the class `postcard-header`, the second one `postcard-body` and the third one `postcard-footer`, you don't have to include the dot symbol in your class name, you will only use the dots in the CSS.
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

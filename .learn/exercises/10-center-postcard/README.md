@@ -38,3 +38,5 @@ Note: the `margin: auto;` will center the box horizontally.
 ## 😄 Build your website!
 
 Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

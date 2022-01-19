@@ -27,6 +27,10 @@ Así debería verse tu sitio web:
 
 ![Postcard body content](../../assets/12.1.png)
 
+## 😄 Apreta el botón "build"
 
+Apreta el botón "build" para que veas como va quedando tu website.
+
+Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando estes list@ para continuar.
 
 

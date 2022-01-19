@@ -16,4 +16,7 @@ Add into your HTML file the following HTML:
 
 ```html
 Hello from <strong>Earth</strong>
+
 ```
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

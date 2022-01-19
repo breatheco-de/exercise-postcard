@@ -22,3 +22,9 @@ https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc85
 Your resulting HTML should look like this:
 
 ![Header Content Preview](../../assets/header-content.png?raw=true)
+
+## 😄 Build your website!
+
+Build your website to see how it's looking!
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

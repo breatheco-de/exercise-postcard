@@ -26,3 +26,9 @@ Nota: El primer `<div>` debe tener la clase `body-left` y el que esta justo deba
 Asi es como tu website debe lucir despues de estos cambios:
 
 ![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
+
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website.
+
+Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando estes list@ para continuar.

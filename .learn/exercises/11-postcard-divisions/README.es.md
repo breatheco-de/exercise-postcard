@@ -16,3 +16,9 @@ Ahora tenemos que seguir armando la estrategia para nuestro HTML, tenemos que co
 ```
 
 Asegúrate de que los divs tengan las clases especificadas, el primero de los tres divs debe tener la class o clase `postcard-header`, el segundo la class o clase `postcard-body` y el tercero la class o clase `postcard-footer`, no debes incluir el punto en el nombre de tu clase, solo usarás puntos en CSS.
+
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website.
+
+Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando estes list@ para continuar.

@@ -7,3 +7,5 @@ Then press the `build` button icon on the top of the instructions to see your we
 ![build button](../../assets/build.png?raw=true) 
 
 You can build as many times as you want, you should do it every time you make changes, that way you can check your progress as you go.
+
+Click on the `next ➡` button on the upper right corner of the screen to go to the next exercise.

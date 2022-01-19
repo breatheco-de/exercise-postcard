@@ -22,3 +22,9 @@ Por otro lado, para que la imagen sea más pequeña hay que usar las propiedades
 Una vez que termines tu ejercicio debiera verse similar a este:
 
 ![Preview](../../assets/header-styles.png?raw=true)
+
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website..
+
+Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando estes list@ para continuar.
