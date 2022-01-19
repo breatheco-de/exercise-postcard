@@ -1,4 +1,4 @@
-## `10` Centrando la Postcard
+# `10` Centrando la Postcard
 
 Tu sitio web está de color negro, pero tu postal o postcard debería tener un fondo blanco.
 
@@ -16,7 +16,7 @@ Hay tres formas de seleccionar (o especificar) los elementos a los que quieras a
 - Selector `.class`: Usa un punto `.`  al inicio del selector.
 - Selector `tag`: No usa símbolo al inicio del selector.
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
 Dentro de la etiqueta `<body>` hay un div con la clase o class "postcard" que será nuestra caja blanca.
 
@@ -30,8 +30,8 @@ Por favor crea un un selector de tipo clase (usando el punto `.`) `.postcard` de
 
 Nota: el `margin: auto;` centrará horizontalmente la caja.
 
-## 😄 Apreta el botón "build"
+## 😄 Presiona el botón "build"
 
-Apreta el botón "build" para que veas como va quedando tu website..
+Presiona el botón "build" para que veas como va quedando tu website.
 
 Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 
