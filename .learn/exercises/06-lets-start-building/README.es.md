@@ -5,27 +5,28 @@ Primero lo primero, todos los sitios web tienen un formato HTML básiso que incl
 Por favor añade el siguiente contenido HTML básico a tu sitio web.
  
 
-### 📝 Instrucciones
+## 📝 Instrucciones
 
-Elimina todo el contenido dentro del archivo `index.html` y pega lo siguiente:
+1. Elimina todo el contenido dentro del archivo `index.html` y pega lo siguiente:
 
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <!-- comienza a añadir nuevas etiquetas o tags aquí -->
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <!-- comienza a añadir nuevas etiquetas o tags aquí -->
+    </body>
 </html>
 ```
 
 Todos los sitios web comienzan con este esqueleto, si construyes tu sitio web o le das clic al botón build verás que está en blanco (vacío) pero es solo porque el `<head>` es invisible para el sitio web de los usuarios, sólo las etiquetas o tags que añadas dentro del `<body>`son visibles en cualquier sitio web.
-## 😄 Apreta el botón "build"
 
-Apreta el botón "build" para que veas como va quedando tu website..
+## 😄 Presiona el botón "build"
+
+Presiona el botón "build" para que veas como va quedando tu website.
 
 Haz clic en el botón `next ➡` en la esquina superior derecha de la pantalla para ir al siguiente ejercicio. 
