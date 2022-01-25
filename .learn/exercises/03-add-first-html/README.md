@@ -17,3 +17,5 @@ Add into your HTML file the following HTML:
 ```html
 Hello from <strong>Earth</strong>
 ```
+
+Click on the `next ➡` button on the top right corner of the screen ↗ when you are r

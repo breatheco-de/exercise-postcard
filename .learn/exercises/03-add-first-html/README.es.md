@@ -18,3 +18,5 @@ Añade dentro de tu archivo HTML el siguiente HTML:
 ```html
 Hello from <strong>Earth</strong>
 ```
+
+Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando e

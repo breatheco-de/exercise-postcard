@@ -8,3 +8,7 @@ Luego, haz clic en botón `build` en la esquina superior izquierda, sobre la ins
 
 
 Puedes hacerlo cuantas veces quieras, deberías hacerlo cada vez que hagas cambios, de esa forma puedes verificar tus progresos.
+
+## 😄 Apreta el botón "build"
+
+Apreta el botón "build" para que veas como va quedando tu website.

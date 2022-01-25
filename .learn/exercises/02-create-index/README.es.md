@@ -4,5 +4,5 @@ Todos los sitios web en el mundo deben comenzarse con un archivo llamado `index.
 
 1. Por favor crea un archivo llamado `index.html` en la raíz del proyecto, debes ser cuidadoso porque el nombre del archivo debe ser exactamante ese.
 
-2. Haz clic en el botón **test** (`✔`) en la esquina superior izquierda de la pantalla  para verificar que has creado correctamente el archivo.
+ Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando estes list@ para continuar.
 
