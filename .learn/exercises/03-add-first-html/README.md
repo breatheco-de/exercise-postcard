@@ -18,4 +18,4 @@ Add into your HTML file the following HTML:
 Hello from <strong>Earth</strong>
 ```
 
-Click on the `next ➡` button on the top right corner of the screen ↗ when you are r
+Click on the `next ➡` button on the top right corner of the screen ↗ when you are ready to continue.
