@@ -10,4 +10,4 @@ You can build as many times as you want, you should do it every time you make ch
 
 ## 😄 Build your website!
 
-Build your website to see how it's looking!
+Click on the build button to see how your website is looking!
