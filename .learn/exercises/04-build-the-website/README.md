@@ -7,7 +7,3 @@ Then press the `build` button icon on the top of the instructions to see your we
 ![build button](../../assets/build.png?raw=true) 
 
 You can build as many times as you want, you should do it every time you make changes, that way you can check your progress as you go.
-
-## 😄 Build your website!
-
-Click on the build button to see how your website is looking!
