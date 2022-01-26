@@ -9,7 +9,7 @@ Una etiqueta HTML o  HTML tag solo es una sentencia que comienza y termina con l
 <strong>Anything</strong>
 ```
 
-`<strong>` es una etiqueta HTML o HTML tag utilizada para que el texto esté en negrita(más grueso).
+`<strong>` es una etiqueta HTML o HTML tag utilizada para que el texto esté en negrita (más grueso).
 
 ## 📝 Instructiones 
 
@@ -19,4 +19,4 @@ Añade dentro de tu archivo HTML el siguiente HTML:
 Hello from <strong>Earth</strong>
 ```
 
-Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla  ↗ cuando e
+Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla ↗ cuando estes list@ para continuar.
