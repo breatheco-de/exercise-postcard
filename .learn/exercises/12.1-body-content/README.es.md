@@ -19,14 +19,10 @@ También piensa en que estilos vas a aplicar:
 
 1. La primera `<p>` no necesita  `margin-top`.
 2. `.body-left` y `.body-right` deben tener un `padding` para separar el texto del borde de las cajas. 
-3. Las entradas o inputs tienen un `border-bottom`(borde de abajo) gris (`grey`) pero no debe tener bordes a los lados y arriba no.
+3. Las entradas o inputs tienen un `border-bottom`(borde de abajo) gris (`grey`) pero pero no debe tener bordes a los lados y arriba no, prueba con `border: none` y luego `border-bottom`.
 4. El párrafo y/o párrafos puede que tener un `font-size` particular.
 
 Así debería verse tu sitio web:
 
 
 ![Postcard body content](../../assets/12.1.png)
-
-
-
-
