@@ -1,4 +1,3 @@
-const { NONAME } = require("dns");
 const fs = require("fs");
 const path = require("path");
 const { fromFile, fromHTML } = require("../../utils/dom");
