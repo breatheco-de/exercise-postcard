@@ -36,7 +36,7 @@ test("Add the background, width, height and margin CSS rules to your class", fun
         })
 
     } catch (error) {
-        console.log(error);
+        
     }
     try {
         result2 = dom.selector('.postcard').hasStyles({
@@ -46,7 +46,7 @@ test("Add the background, width, height and margin CSS rules to your class", fun
             margin: "auto",
         })
     } catch (error) {
-        console.log(error);
+        
     }
 
     expect(result || result2).toBe(true)
