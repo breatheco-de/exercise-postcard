@@ -25,10 +25,24 @@ test("Create a .postcard selector on your stylesheet", function(){
 
 test("Add the background, width, height and margin CSS rules to your class", function(){
     dom = dom.withStylesheet();
-    dom.selector('.postcard').hasStyles({
-        background: "white",
-        width: "400px",
-        height: "300px",
-        margin: "auto",
-    })
+    try {
+        dom.selector('.postcard').hasStyles({
+            background: "white",
+            width: "400px",
+            height: "300px",
+            margin: "auto",
+        })
+    } catch (error) {
+        console.log(error);
+    }
+    try {
+        dom.selector('.postcard').hasStyles({
+            "background-color": "white",
+            width: "400px",
+            height: "300px",
+            margin: "auto",
+        })
+    } catch (error) {
+        console.log(error);
+    }
 })
