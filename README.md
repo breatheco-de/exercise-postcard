@@ -32,7 +32,7 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://ra
 
 ![postcard preview](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png)
 
-> :hand: Here is the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true)
+> ✋ Here is the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true)
 
 ## Create by drawing your strategy
 
