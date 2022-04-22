@@ -36,10 +36,11 @@ Hay un video sobre este ejercicio, míralo si estás perdido. Pero no copies tod
 
 ## Fundamentos
 Este ejercicio cubre los siguientes fundamentos:
-1. Estructura básica para cada sitio web HTML5.
-2. La etiqueta *Link* para importar Reglas CSS.
-3. Uso de fuentes de google.
-3. Uso de diferentes selectores disponibles en CSS.
-4. Trabajo con cajas: border, padding y margins.
-5. Overflow.
-6. Uso de un formulario simple.
+
+1. Estructura básica para cada sitio web HTML5.  
+2. La etiqueta *Link* para importar Reglas CSS.  
+3. Uso de fuentes de google.  
+3. Uso de diferentes selectores disponibles en CSS.  
+4. Trabajo con cajas: border, padding y margins.  
+5. Overflow.  
+6. Uso de un formulario simple.  
