@@ -10,7 +10,7 @@ Este proyecto viene con los archivos necesarios para empezar a trabajar, pero ti
 
 a) Abrir este enlace con Gitpod en tu navegador (recomendado): https://gitpod.io#https://github.com/breatheco-de/exercise-postcard
 
-b) Clonar este repositorio localmente en tu computador:
+b) Clonar este repositorio localmente en tu computador: 
 
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-postcard
