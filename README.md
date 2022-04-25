@@ -1,5 +1,6 @@
+<!-- hide -->
 # The Postcard
-
+<!-- endhide -->
 Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
 
 Let's create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
