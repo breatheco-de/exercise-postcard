@@ -1,9 +1,8 @@
 ## `07` El primer div
 
-Ahora que tienes la estructura básica es hora de añadir nuestro primer elemento dentro de las etiquetas o tags `<body></body>`.
+Ahora que tienes la estructura básica es hora de añadir nuestro primer elemento dentro de los tags `<body></body>`.
 
-La mayoría de las veces el primer elementro dentro del body es un  `<div>`, (div quiere decir división, 
-básicamente son una herramienta genial para dividir tu sitio web en varias secciones).
+La mayoría de las veces el primer elemento dentro del body es un `<div>`, (div quiere decir división. Básicamente son una herramienta genial para dividir tu sitio web en varias secciones).
 
 
 ![paso 1](../../assets/07-the-first-div.png?raw=true)

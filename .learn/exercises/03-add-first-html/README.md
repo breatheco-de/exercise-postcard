@@ -12,7 +12,7 @@ An HTML tag is just a sentence that starts and ends with the same word like this
 
 ## 📝 Instructions 
 
-Add into your HTML file the following HTML:
+Add into your HTML file the following:
 
 ```html
 Hello from <strong>Earth</strong>

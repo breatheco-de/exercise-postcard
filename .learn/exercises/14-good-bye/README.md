@@ -1,6 +1,6 @@
 # `14` That is it!
 
-The HTML is at 100% and maybe you need a bit more stilles to finish tweaking your Postcard.
+The HTML is at 100% and maybe you need a bit more styles to finish tweaking your Postcard.
 
 You can keep playing arround with your styles and HTML to make it look more similar to the original design.
 

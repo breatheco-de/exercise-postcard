@@ -23,4 +23,4 @@ Elimina todo el contenido dentro del archivo `index.html` y pega lo siguiente:
 </html>
 ```
 
-Todos los sitios web comienzan con este esqueleto, si construyes tu sitio web o le das clic al botón build verás que está en blanco (vacío) pero es solo porque el `<head>` es invisible para el sitio web de los usuarios, sólo las etiquetas o tags que añadas dentro del `<body>`son visibles en cualquier sitio web.
+Todos los sitios web comienzan con este esqueleto, si construyes tu sitio web o le das clic al botón `build` verás que está en blanco (vacío) pero es solo porque el `<head>` es invisible para el sitio web de los usuarios, sólo los tags que añadas dentro del `<body>` son visibles en cualquier sitio web.

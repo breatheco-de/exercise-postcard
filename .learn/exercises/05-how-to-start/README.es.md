@@ -1,15 +1,15 @@
 ## ¿Por dónde empiezo?
 
-Para comenzar a construir tu sitio web tienes que identificar cuales `<etiquetas>` (tags) que necesitas para el diseño de este sitio web en particular. Observa esta animación que te muestra que etiquetas o tags debieses usar en esta postal o postcard:
+Para comenzar a construir tu sitio web tienes que identificar cuales `<etiquetas>` (tags) que necesitas para el diseño de este sitio web en particular. Observa esta animación que te muestra los tags (etiquetas) que deben ser usados en este postcard:
 
 ![HTML Postcard Strategy](../../assets/strategy.gif?raw=true)
 [Haz clic aquí para agrandarla](../../assets/strategy.gif)
 
 ## Pero ¿Cómo puedes identificar que etiquetas o tags utilizar?
 
-Piensa en un documento de texto en Microsoft Word, hay una `<etiqueta>` HTML para casi todo lo que puedes hacer un documento de texto: párrafos, texto en negrita, itálica, headings, imágenes, etc.
+Piensa en un documento de texto en Microsoft Word, por ejemplo. Hay una `<etiqueta>` HTML para casi todo lo que puedes hacer en el, como: párrafos, texto en negrita, itálica, headings, imágenes, etc.
 
-Memoriza la 6 etiquetas o tags HTML más importante y para que se usan:
+Memoriza la 6 etiquetas o tags HTML más importantes y para que se usan:
  
 
 | tag o etiqueta        | uso         |
