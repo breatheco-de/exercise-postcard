@@ -1,6 +1,6 @@
 ## `04` Build your website
 
-Now it's time to see how your changes look on your website.
+Now it's time to see how your changes look like on your website.
 
 Then press the `build` button icon on the top of the instructions to see your website live! 
 

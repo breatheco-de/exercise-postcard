@@ -9,7 +9,7 @@ Para poder depurar mejor la aplicación, te recomendamos incluir los siguientes 
 }
 ```
 
-Este código añadirá un borde rojo con un línea discontinua a cada elemento del sitio web, así podrás visualizarlas más fácilmente para depurarlas.
+Este código añadirá un borde rojo con una línea discontinua a cada elemento del sitio web, así podrás visualizarlas más fácilmente para depurarlas.
 
 ![Red Borders](../../assets/red-borders.png?raw=true)
 
