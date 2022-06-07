@@ -1,13 +1,12 @@
-## `06` Empezemos a construir
+# `06` Let's start building
 
-Primero lo primero, todos los sitios web tienen un formato HTML básiso que incluye un `<body>`, un`<head>`, etc.
+¡Es hora de empezar a construir tu Postcard!
 
-Por favor añade el siguiente contenido HTML básico a tu sitio web.
+Todos los sitios web tienen un formato HTML básiso que incluye un `<body>`, un `<head>`, etc.
  
+## 📝 Instrucciones:
 
-### 📝 Instrucciones
-
-Elimina todo el contenido dentro del archivo `index.html` y pega lo siguiente:
+1. Elimina todo el contenido dentro del archivo `index.html` y pega lo siguiente:
 
 ```html
 <!DOCTYPE html>
@@ -23,4 +22,6 @@ Elimina todo el contenido dentro del archivo `index.html` y pega lo siguiente:
 </html>
 ```
 
-Todos los sitios web comienzan con este esqueleto, si construyes tu sitio web o le das clic al botón build verás que está en blanco (vacío) pero es solo porque el `<head>` es invisible para el sitio web de los usuarios, sólo las etiquetas o tags que añadas dentro del `<body>`son visibles en cualquier sitio web.
+## 💡 Pista:
+
++ Todos los sitios web comienzan con este esqueleto. Si le das clic al botón de `build` verás que está en blanco (vacío), pero es solo porque el `<head>` es invisible para el sitio web de los usuarios, únicamente los tags que añadas dentro del `<body>` son visibles para todos.

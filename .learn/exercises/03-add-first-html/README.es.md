@@ -1,22 +1,19 @@
-## Llenando el archivo HTML
+# `03` Add first HTML
 
-Nuestro archivo está vacío, los archivos `.html` deben tener etiquetas HTML o HTML Tags.
+Nuestro archivo está vacío; los archivos `.html` deben tener `<tags>` (etiquetas) HTML.
 
-Una etiqueta HTML o  HTML tag solo es una sentencia que comienza y termina con la misma palabra, de esta forma:
- 
+Un `<tag>` HTML es simplemente una oración que comienza y termina con la misma palabra.
 
-```html
-<strong>Anything</strong>
-```
-
-`<strong>` es una etiqueta HTML o HTML tag utilizada para que el texto esté en negrita (más grueso).
-
-## 📝 Instructiones 
-
-Añade dentro de tu archivo HTML el siguiente HTML:
+### Ejemplo:
 
 ```html
-Hello from <strong>Earth</strong>
+<strong>Cualquier cosa</strong>
 ```
 
-Haz clic en el botón `next ➡` el en la esquina superior derecha de la pantalla ↗ cuando estes list@ para continuar.
+> `<strong>` es un tag HTML utilizado para que el texto esté en negrita (más grueso).
+
+## 📝 Instructiones:
+
+1. Añade dentro de tu archivo `index.html` el HTML que aparece en el ejemplo:
+
+
