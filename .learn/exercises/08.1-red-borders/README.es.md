@@ -1,6 +1,10 @@
-## `08` Estilos para depurar
+# `08.1` Red Borders
 
-Para poder depurar mejor la aplicación, te recomendamos incluir los siguientes estilos dentro de tu style.css.
+Para poder depurar mejor la aplicación, te recomendamos incluir ciertos estilos dentro de tu `style.css`.
+
+## 📝 Instrucciones:
+
+1. Copia y pega dentro de tu archivo `style.css`, el siguiente código.
 
 ```css
 * {
@@ -9,8 +13,12 @@ Para poder depurar mejor la aplicación, te recomendamos incluir los siguientes 
 }
 ```
 
-Este código añadirá un borde rojo con un línea discontinua a cada elemento del sitio web, así podrás visualizarlas más fácilmente para depurarlas.
+## 💡 Pista:
 
-![Red Borders](../../assets/red-borders.png?raw=true)
++ Este código añadirá un borde rojo con una línea punteada a cada elemento del sitio web, así podrás visualizarlas más fácilmente para depurarlas.
 
-Nota: Este código se elimina luego de que termines tu postcard.
+     ![Red Borders](../../assets/red-borders.png?raw=true)
+
+## 🔎 Importante:
+
++ Este código se eliminará luego de que termines tu postcard.

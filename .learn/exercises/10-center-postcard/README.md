@@ -2,13 +2,15 @@
 tutorial: https://www.youtube.com/watch?v=0Wt1n0wvSe8
 ---
 
-## `10` Center Postcard
+# `10` Center Postcard
 
-You website is black, but your postcard should have a white backgound.
+Right now your website is black, but your postcard should have a white backgound.
 
 To apply colors, sizes or any style to an element we need to first specify (or "select") the element in our CSS stylsheet.
 
-For example, if you want to apply color blue to all the `<p>` tags in your website you can type in your stylesheet:
+## 🔹 Example:
+
+If we wanted to apply a blue color to all the `<p>` tags on your website, one way to do it would be to write this in your stylesheet:
 
 ```css
 p{
@@ -16,16 +18,30 @@ p{
 }
 ```
 
-There are 3 ways of selecting (or specifying) the elements you want to apply styles: 
-- `#id` selector: Uses a pound `#` symbol at the beggining of the selector.
-- `.class` selector: Uses a dot `.`  symbol at the beggining of the selector.
-- `tag` selector: No symbol at the beggining of the selector.
+## Ways to select:
 
-## 📝 Instructions
+There are three ways to select (or specify) the elements you want to apply styles to:
 
-Inside the `<body>` tag we have a div with the class "postcard" that is going to be our white box.
+   1. `#id` selector: Uses a pound `#` symbol at the beggining of the selector.
+   2. `.class` selector: Uses a dot `.`  symbol at the beggining of the selector.
+   3. `tag` selector: No symbol at the beggining of the selector.
 
-Please create a class selector `.postcard` inside your styles.css file and bame the `background` white, apply a width of `400px` a height of `300px` and a margin `auto` (to horizontally center the div).
+Now that you have an idea of ​​how it works, let's continue with the exercise... Do you agree? 😎
+
+Inside the `<body>` tag we have a `<div>` with the `class` "postcard" that is going to be our white box.
+
+## 📝 Instructions:
+
+1. Create a class selector `.postcard` inside your **styles.css** file and apply:
+
+    + The `background` white.
+    + A `width` of `400px`.
+    + A `height` of `300px`.
+    + A margin `auto`.
+
+## 💡 Hints:
+
++ Your code should look something like this.
 
 ```css
 .postcard{
@@ -33,8 +49,8 @@ Please create a class selector `.postcard` inside your styles.css file and bame 
 }
 ```
 
-Note: the `margin: auto;` will center the box horizontally.
++ The `margin: auto;` will center the box horizontally.
 
-## 😄 Build your website!
+## 🔎 Important:
 
-Build your website to see how it's looking!
++ Build your website to see how it's looking!

@@ -2,20 +2,19 @@
 tutorial: https://www.youtube.com/watch?v=rzDFkhUgZks
 ---
 
-## `09` Connecting your styles
+# `09` Connecting Stylesheet
 
-In the styles.css file we have specified that we want the `body` of your website to be black.
+In your `styles.css` file we have specified that we want the `body` of the website to be black. For this to work, we must connect that file to the `index.html` file, using the `<link>` tag.
 
-Lets connect our `styles.css` with our `index.html` using a `<link>` tag.
+> `<link>` tags are the only way to connect **CSS** Stylesheets with **HTML** files.
 
-Link tags are the only way to connect CSS Stylesheets with HTML files.
+## 📝 Instructions:
 
-## 📝 Instructions
-
-Add the following code anywere inside the opening and closing `<head></head>` tags:
+1. Add the following code inside the opening and closing `<head></head>` tags:
 
 ```html
 <link rel="stylesheet" href="styles.css">
 ```
+## 💡 Hint:
 
-Note: if the connection between CSS and HTML was successfull, your website should be **black** after you build.
++ If the connection between CSS and HTML was successfull, your website should be **black** after you build.

@@ -1,12 +1,12 @@
-## `11` Divisiones de la postcard o postal
+# `11` Postcard Divisions
 
-Ahora tenemos que seguir armando la estrategia para nuestro HTML, tenemos que continuar dividiendo la postcard o postal en pedazos para poder aplicarle estilos y manejarla con facilidad
+Ahora hay que seguir armando la estrategia para nuestro HTML, tenemos que continuar dividiendo el postcard en pedazos para poder aplicarle estilos y manejarlo con facilidad.
 
 ![Postcard Divisions](../../assets/11-postcard-divisions.gif?raw=true)
 
-## 📝 Instrucciones 
+## 📝 Instrucciones:
 
-- Dentro de tu `<div class="postcard">` añade tres divs adicionales, los tres son hijos directos de ese div.
+1. Dentro de tu `<div class="postcard">` añade tres `<divs>` adicionales.
 
 ```txt
 1. .postcard
@@ -15,4 +15,12 @@ Ahora tenemos que seguir armando la estrategia para nuestro HTML, tenemos que co
     1.3. .postcard-footer
 ```
 
-Asegúrate de que los divs tengan las clases especificadas, el primero de los tres divs debe tener la class o clase `postcard-header`, el segundo la class o clase `postcard-body` y el tercero la class o clase `postcard-footer`, no debes incluir el punto en el nombre de tu clase, solo usarás puntos en CSS.
+>Nota: Los tres son hijos directos de ese div.
+
+## 💡 Pista:
+
++ Asegúrate de que los divs tengan las clases especificadas. El primero de los tres divs debe tener la clase `postcard-header`, el segundo la clase `postcard-body` y el tercero la clase `postcard-footer`.
+
+## 🔎 Importante:
+
++ No debes incluir el punto (`.`) en el nombre de tu clase, solo usarás puntos en CSS.

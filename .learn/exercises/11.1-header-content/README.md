@@ -2,23 +2,27 @@
 tutorial: https://www.youtube.com/watch?v=7sFt2ztayBE
 ---
 
-# `11.1` Header Content
+## `11.1` Header Content
 
-Now its time to include our content inside the `.postcad-header` div.
+Now it is time to include our content inside the `.postcad-header` div.
 
-The postcard header contains one title and one image. 
+The `postcard-header` contains one title on the left and one image on the right. 
 
-What tags do you think we should use?
+What HTML `<tags>` do you think we should use to represent a title and an image? 🤔
 
-## 📝 Instructions
+## 📝 Instructions:
 
-- Please add one `h1` tag inside the .postcard-header with the postcard title.
-- Also add an `<img>` tag inside the .postcard-header with the following image url: 
+1. Add a `<h1>` tag inside the content of `.postcard-header` (make sure the **h1** contains the desired title for the postcard).
+
+2. Add a `<img>` tag inside the same div, the **image** and the **h1** must be siblings (immediate children of the `.postcard-header`)
+
+3. Make the image have this URL: 
 
 ```text
 https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc850bd92aa1c2e19191837fb5c80/.learn/assets/4geeks.png
 ```
+## Expected Result:
 
-Your resulting HTML should look like this:
++ If you `build` your page, it should look like this:
 
-![Header Content Preview](../../assets/header-content.png?raw=true)
+    ![Header Content Preview](../../assets/header-content.png?raw=true)

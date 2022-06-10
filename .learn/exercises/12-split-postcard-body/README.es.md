@@ -1,12 +1,14 @@
-## `12` Diviendo el body de la postcard
+# `12` Split Postcard Body
 
-También tenemos que dividir el body de la postcard o postal, es decir hay que añadirle dos divs más al postcard-body para ponerlos uno al lado del otro, esto solo puedes lograrlo usando dos divs separados.
+También tenemos que dividir el **body** del postcard, es decir, hay que añadirle dos `<div>` más al `postcard-body` para ponerlos uno al lado del otro. Esto solo puedes lograrlo usando dos divs separados.
 
 ![Split Postcard Body](../../assets/12-split-postcard-body.gif?raw=true)
 
-# 📝 Instrucciones
+## 📝 Instrucciones:
 
-1. Agrega dos nuevos divs dentro del div `.postcard-body`, estos dos divs deben ser parientes (estar en el mismo nivel) pero tener el mismo div padre (el div `postcard-body`es el padre).
+1. Agrega dos nuevos `<divs>` dentro del div `.postcard-body`. Ambos deben ser parientes (estar en el mismo nivel), pero tener el mismo padre (el div `postcard-body` es el padre).
+
+   > Nota: El primer `<div>` debe tener la clase `body-left` y el que está justo debajo debe tener la clase `body-right`.
 
 ```txt
 1 .postcard
@@ -19,10 +21,29 @@ También tenemos que dividir el body de la postcard o postal, es decir hay que a
     1.3 .postcard-footer
 ```
 
-Nota: El primer `<div>` debe tener la clase `body-left` y el que esta justo debajo debe tener la clase `body-right`.
+2. Dentro del div `body-left` escribe "soy el lado izquierdo" y dentro del div `body-right` escribe "soy el lado derecho" (Esto es para que puedas visualizarlos mejor).
 
-2. Aplica el estilo `display: flex` a el div .postcard-body para que sus hijos se organicen orizontalmente.
+3. Aplica el estilo `display: flex` a el div `.postcard-body` para que sus hijos se organicen horizontalmente.
 
-Asi es como tu website debe lucir despues de estos cambios:
+```css
+.postcard-body {
+	display: x;
+}
+```
 
-![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
+## Resultado Esperado:
+
++ Así es como tu website debe lucir despues de estos cambios:
+
+    ![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
+
+## 💡 Pista:
+
++ Algo así debería de verse en tu archivo HTML.
+
+   ```html
+   <div class="postcard-body">
+		<div class="body-left">--soy el lado izquierdo--</div>
+		<div class="body-right">--soy el lado derecho--</div>
+	</div>
+    ```
