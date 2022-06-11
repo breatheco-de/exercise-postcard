@@ -1,6 +1,6 @@
 ## `12` Diviendo el body de la postcard
 
-También tenemos que dividir el body de la postcard o postal, es decir hay que añadirle dos divs más al postcard-body para ponerlos uno al lado del otro, esto solo puedes lograrlo usando dos divs separados.
+También tenemos que dividir el body del postcard, es decir, hay que añadirle dos `<div>` más al `postcard-body` para ponerlos uno al lado del otro. Esto solo puedes lograrlo usando dos divs separados.
 
 ![Split Postcard Body](../../assets/12-split-postcard-body.gif?raw=true)
 
@@ -21,7 +21,7 @@ También tenemos que dividir el body de la postcard o postal, es decir hay que a
 
 Nota: El primer `<div>` debe tener la clase `body-left` y el que esta justo debajo debe tener la clase `body-right`.
 
-2. Aplica el estilo `display: flex` a el div .postcard-body para que sus hijos se organicen orizontalmente.
+2. Aplica el estilo `display: flex` a el div .postcard-body para que sus hijos se organicen horizontalmente.
 
 Asi es como tu website debe lucir despues de estos cambios:
 
