@@ -1,24 +1,25 @@
-## ¿Por dónde empiezo?
+# `05` How to start
 
-Para comenzar a construir tu sitio web tienes que identificar cuales `<etiquetas>` (tags) que necesitas para el diseño de este sitio web en particular. Observa esta animación que te muestra los tags (etiquetas) que deben ser usados en este postcard:
+Para comenzar a construir tu sitio web, es importante identificar cuales `<tags>` necesitas para este diseño en particular. 
+
+Echa un vistazo a esta animación que te muestra que `<tags>` debes usar en tu postcard:
 
 ![HTML Postcard Strategy](../../assets/strategy.gif?raw=true)
-[Haz clic aquí para agrandarla](../../assets/strategy.gif)
 
-## Pero ¿Cómo puedes identificar que etiquetas o tags utilizar?
+### Para entender e identificar mejor los Tags:
 
-Piensa en un documento de texto en Microsoft Word, por ejemplo. Hay una `<etiqueta>` HTML para casi todo lo que puedes hacer en el, como: párrafos, texto en negrita, itálica, headings, imágenes, etc.
+> Piensa por un momento en un documento de texto en Microsoft Word. Hay un `<tag>` HTML para casi todo lo que puedes hacer en él: párrafos, texto en negrita, itálica, headings, imágenes, etc.
 
-Memoriza la 6 etiquetas o tags HTML más importantes y para que se usan:
+## 📝 Instrucciones:
+
+1. Memoriza los 6 `<tags>` HTML más importantes y para que se usan:
  
-
 | tag o etiqueta        | uso         |
 | -----------------     | --------------------- |
 | `<p>`                 | para párrafos        |
 | `<button>`            | para botones          |
 | `<img>`               | para imágenes            |
-| `<h1>` `<h2>` `<h3>`  | títulos (headings), `h1` es el más grande, h6 el más pequeño |
+| `<h1>` `<h2>` `<h3>`  | títulos (headings), donde `h1` es el más grande, y `h6` el más pequeño |
 | `<div>`               | divide a tu sitio web en cuadrados (cajas)  |
 | `<input>`             | permite que los usuarios ingresen información |
 
-Haz clic en `next →` para continuar.

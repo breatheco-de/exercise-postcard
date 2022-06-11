@@ -2,13 +2,15 @@
 tutorial: https://www.youtube.com/watch?v=DWUqB5mVVT0
 ---
 
-## `06` Let's start building
+# `06` Let's start building
 
-First things first, all websites need a basic HTML template that includes one `<body>`, one `<head>`, etc. Please add the basic the following basic HTML content to your website.
+It's time to start building your Postcard!
 
-### 📝 Instructions 
+All websites need a basic HTML template that includes a `<body>`, `<head>`, etc. 
 
-Delete all the previous content inside the `index.html` and paste this:
+## 📝 Instructions: 
+
+1. Delete all the previous content inside the `index.html` and paste this:
 
 ```html
 <!DOCTYPE html>
@@ -24,4 +26,6 @@ Delete all the previous content inside the `index.html` and paste this:
 </html>
 ```
 
-Every website starts with this skeleton, if you build your website you'll see that is white (empty) but only because the `<head>` is invisible to the website user, only tags you add to the `<body>` are visible in any website.
+## 💡 Hint:
+
++ Every website starts with this skeleton. If you `build` your website you'll see that it is white (empty), but only because the `<head>` is invisible to the website user, only the tags you add to the `<body>` are visible to all.

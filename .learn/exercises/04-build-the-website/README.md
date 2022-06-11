@@ -1,9 +1,15 @@
-## `04` Build your website
+# `04` Build the website
 
-Now it's time to see how your changes look like on your website.
+Now it's time to see how your changes look like on your website!
 
-Then press the `build` button icon on the top of the instructions to see your website live! 
+## 📝 Instructions:
+
+1. Click the `build` button in the upper left corner, above the instructions, to see your website live.
+
+## 💡 Hint:
 
 ![build button](../../assets/build.png?raw=true) 
 
-You can build as many times as you want, you should do it every time you make changes, that way you can check your progress as you go.
+## 🔎 Important:
+
++ You can build as many times as you want, we recomend you to do it everytime you make changes, that way you can check your progress as you go.

@@ -1,15 +1,14 @@
-## `07` El primer div
+# `07` The First div
 
-Ahora que tienes la estructura básica es hora de añadir nuestro primer elemento dentro de los tags `<body></body>`.
+Ahora que tienes la estructura básica, es hora de añadir nuestro primer elemento dentro del `<body>`.
 
-La mayoría de las veces el primer elemento dentro del body es un `<div>`, (div quiere decir división. Básicamente son una herramienta genial para dividir tu sitio web en varias secciones).
-
+La mayoría de las veces, el primer elementro dentro del `<body>` es un `<div>` (div quiere decir división). Básicamente son una herramienta genial para dividir tu sitio web en varias secciones.
 
 ![paso 1](../../assets/07-the-first-div.png?raw=true)
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
-- Añade un nuevo div entre las etiquetas de apertura y de cierre de `<body></body>`, de esta forma:
+1. Añade un nuevo `<div>` entre los tags de apertura y de cierre del `<body>`, de esta forma:
 
 ```html
 <body>
@@ -17,8 +16,10 @@ La mayoría de las veces el primer elemento dentro del body es un `<div>`, (div 
 </body>
 ```
 
-- El `<div>` que añadiste debe tener la clase `class="postcard"` porque así nos referiremos a él más tarde, es como asignarle un nombre al elemento HTML en caso de que lo modifiquemos.
+## 💡 Pistas:
 
-- Asegúrate que la etiqeuta `<div>` esté cerrada.
++ El `<div>` que añadiste debe tener la clase `class="postcard"` porque así nos referiremos a él más tarde, es como asignarle un nombre al elemento HTML en caso de que lo modifiquemos.
 
-- Asegúrate también de escribir la palabra `Hello` entre las etiquetas de apertura y cierre del body.
++ Asegúrate que la etiqueta `<div>` esté cerrada.
+
++ Asegúrate también de escribir la palabra `Hello` entre los `<Tags>` del `<body>`.
