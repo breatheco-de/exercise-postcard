@@ -2,9 +2,9 @@
 
 En tu archivo styles.css hemos especificado que el `body` de tu sitio web en color negro.
 
-Conectémos tu `styles.css` con tu `index.html` usando una etiqueta o tag `<link>`.
+Conectémos tu `styles.css` con tu `index.html` usando un tag `<link>`.
 
-La etiqueta link es la única manera de conectar tu hoja de estilos CSS o CSS Stylesheets con archivos HMTL.
+La etiqueta link es la única manera de conectar tu hoja de estilos (stylesheets) CSS con archivos HMTL.
 
 ## 📝 Instrucciones
 

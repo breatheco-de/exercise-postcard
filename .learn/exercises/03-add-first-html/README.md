@@ -1,19 +1,18 @@
-## Filling the HTML file
+# `03` Add first HTML
 
-Our file is currently empty, `.html` files must be filled with HTML Tags.
+Our file is currently empty; `.html` files must be filled with HTML `<tags>`.
 
-An HTML tag is just a sentence that starts and ends with the same word like this:
+An HTML `<tag>` is just a sentence that starts and ends with the same word.
+
+### Example:
 
 ```html
 <strong>Anything</strong>
 ```
 
-`<strong>` is an HTML tag used to make text bold (more thick).
+> `<strong>` is an HTML tag used to make text bold (more thick).
 
-## 📝 Instructions 
+## 📝 Instructions: 
 
-Add into your HTML file the following HTML:
+1. Add into your `index.html` file the HTML in the example:
 
-```html
-Hello from <strong>Earth</strong>
-```

@@ -25,7 +25,7 @@ There are 3 ways of selecting (or specifying) the elements you want to apply sty
 
 Inside the `<body>` tag we have a div with the class "postcard" that is going to be our white box.
 
-Please create a class selector `.postcard` inside your styles.css file and bame the `background` white, apply a width of `400px` a height of `300px` and a margin `auto` (to horizontally center the div).
+Please create a class selector `.postcard` inside your styles.css file and change the `background` white, apply a width of `400px` a height of `300px` and a margin `auto` (to horizontally center the div).
 
 ```css
 .postcard{

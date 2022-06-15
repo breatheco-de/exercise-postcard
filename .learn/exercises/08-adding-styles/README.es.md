@@ -1,12 +1,12 @@
-## `08` Añadiendo estilos
+# `08` Adding styles
 
-Si construyes o les das clic a build ahora, verás que solo dice "Hello", el `div` que acabamos de añadir es invisible, cambiemos eso.
+Si le das clic a `build` ahora, verás que solo dice "Hello". Eso es porque el `<div>` que acabamos de añadir es no tiene estilos; cambiemos eso.
 
-Para comenzar a darle un estilo a tu sitio web debes empezar por añadir un archivo `style.css` que contedrá todo el código de estilos de tu sitio web.
+Para comenzar a darle vida a tu sitio web, debes empezar por añadir un archivo `style.css`. Este contendrá todo el código de estilos de tu sitio web.
 
 ## 📝 Instrucciones
 
-- Crea un archivo `styles.css` en la raíz del proyecto y añade el siguiente contenido:
+1. Crea un archivo `styles.css` en la raíz del proyecto y añade el siguiente contenido:
 
 ```css
 body{
