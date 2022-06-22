@@ -4,7 +4,7 @@ tutorial: https://www.youtube.com/watch?v=0Wt1n0wvSe8
 
 # `10` Center Postcard
 
-Right now your website is black, but your postcard should have a white backgound.
+Right now your website is black, but your postcard should have a white background.
 
 To apply colors, sizes or any style to an element we need to first specify (or "select") the element in our CSS stylsheet.
 
