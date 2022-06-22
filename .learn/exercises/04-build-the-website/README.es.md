@@ -1,9 +1,15 @@
-## `04` Construye tu sitio web
+# `04` Build the website
 
-Es hora de ver cómo se ven los cambios en tu sitio web.
+¡Es hora de ver cómo se ven los cambios en tu sitio web!
 
-Luego, haz clic en botón `build` en la esquina superior izquierda, sobre la instrucciones para ver tu website en vivo. 
+## 📝 Instructiones:
 
-![build button](../../assets/build.png?raw=true) 
+1. Haz clic en botón `build` en la esquina superior izquierda, sobre la instrucciones, para ver tu website en vivo. 
 
-Puedes hacerlo cuantas veces quieras, deberías hacerlo cada vez que hagas cambios, de esa forma puedes verificar tu progreso.
+## 💡 Pista: 
+
+ ![build button](../../assets/build.png?raw=true) 
+
+## 🔎 Importante:
+
++ Puedes hacerlo cuantas veces quieras. Te recomendamos hacerlo cada vez que hagas cambios, de esa forma puedes verificar tu progreso.

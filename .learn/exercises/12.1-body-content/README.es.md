@@ -1,6 +1,6 @@
 # `12.1` Postcard-body content
 
-¿Qué elementos debiesen estar en el `postcard-body`? ¿Puedes identificarlos de acuerdo a los `<tags>` ya mencionados?
+¿Qué elementos deben estar en el `postcard-body`? ¿Puedes identificarlos de acuerdo a los `<tags>` ya mencionados?
 
 💻 Posibles opciones: Headings (h1, h2, h3, etc.), Párrafos, Imágenes, Divs, Inputs, Checkbox, etc.
 
