@@ -49,4 +49,4 @@ Dentro del tag `<body>` hay un `<div>` con el `class` (clase) "postcard", que se
 
 ## 🔎 Importante:
 
-+ ¡Dale clic el botón "build" para que veas como va quedando tu website.
++ ¡Dale clic al botón "build" para que veas como va quedando tu website.
