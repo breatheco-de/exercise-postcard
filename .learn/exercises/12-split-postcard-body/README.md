@@ -2,15 +2,17 @@
 tutorial: https://www.youtube.com/watch?v=EZ20QN091wM
 ---
 
-## `12` Split the postcard body
+# `12` Split Postcard Body
 
 We also have to divide the `postcard-body` in two inner `<div>` because we need to put them **one on the side** of the other, this can only be done by assigning `display: flex` to their shared parent.
 
 ![Split Postcard Body](../../assets/12-split-postcard-body.gif?raw=true)
 
-# 📝 Instructions
+## 📝 Instructions:
 
-1. Include two new `<div>` inside the `.postcard-body` div, these two divs have to be siblings of each other (same level) but they both share the same parent divs (`postcard-body` div is the parent).
+1. Add two new `<divs>` inside the `.postcard-body` div. Both must be relatives (on the same level), but have the same parent (the `postcard-body` div is the parent).
+
+   > Note: The first `<div>` must have the `body-left` class and the one just below it must have the `body-right` class.
 
 ```txt
 1 .postcard
@@ -23,10 +25,29 @@ We also have to divide the `postcard-body` in two inner `<div>` because we need 
     1.3 .postcard-footer
 ```
 
-The first of this two divs must have the class `body-left` and the other `body-right`.
+2. Inside the `body-left` div write "I am the left side" and inside the `body-right` div write "I am the right side" (This is so you can visualize them better).
 
-2. Apply the css rule `display: flex` to the postcard-body to make both of its childs organize horizontally.
+3. Apply the `display: flex` style to the `.postcard-body` div so that its children are arranged horizontally.
 
-This is how your website should look like: 
+```css
+.postcard-body {
+	display: x;
+}
+```
+
+## Expected Result:
+
++ This is how your website should look like: 
 
 ![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
+
+## 💡 Hint:
+
++ Your HTML file should look similar to this:
+
+ ```html
+   <div class="postcard-body">
+		<div class="body-left">--I am the left side--</div>
+		<div class="body-right">--I am the right side--</div>
+	</div>
+    ```

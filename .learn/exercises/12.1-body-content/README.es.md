@@ -1,31 +1,49 @@
-## `12.1` Contenido del postcard-body 
+# `12.1` Body Content
 
-¿Qué elementos debiesen estar en el `postcard-body` o en el body de la postal? ¿Puedes identificarlos de acuerdo a los tags ya mencionados?
+¿Qué elementos deben estar en el `postcard-body`? ¿Puedes identificarlos de acuerdo a los `<tags>` ya mencionados?
 
-Posibles opciones: Headings (h1, h2, h3, etc.), Párrafos, Imágenes, Divs, Inputs, Checkbox, etc.
+💻 Posibles opciones: Headings (h1, h2, h3, etc.), Párrafos, Imágenes, Divs, Inputs, Checkbox, etc.
 
 ![Postcard body content](../../assets/12.1-body-content.gif)
 
+Ahora debemos crear los tags HTML necesarios para terminar el contenido de tu `.post-card` y aplicar los estilos que faltan para que se parezca a la imagen.
+
 ## 📝 Instructiones:
 
-Crea las etiquetas o tags HTML necesarias para terminar el contenido  de la `.post-card` y aplica los estilos necesarios para que se parezcan a los de la foto.
+1. La primera `<p>` no necesita  `margin-top` (margen superior), así que debes eliminarlo.
 
-Piensa en el diseño/disposición de esas etiquetas o tags:
+```css
+.body-left p:first-child {
+	margin-top: x;
+}
+```
 
-   + Los inputs o entradas estarán un sobre sobre el otro.
+2. El `.body-left` y `.body-right` deben tener un `padding` (relleno) para separar el texto del borde de las cajas. 
 
-   + Los siguientes inputs o entradas también estarán una sobre la otro. 
+```css
+.body-left,
+.body-right {
+	padding: x;
+}
+```
 
-También piensa en que estilos vas a aplicar:
+3. Los inputs (entradas) deben tener un `border-bottom` (borde de abajo) `grey` (gris), pero no deben tener bordes a los lados ni arriba, así que prueba con `border: none` y luego `border-bottom`.
 
-   + La primera `<p>` no necesita  `margin-top`.
+```css
+input {
+	border: x;
+	border-bottom: x;
+}
+```
 
-   + `.body-left` y `.body-right` deben tener un `padding` para separar el texto del borde de las cajas. 
+4. Los párrafos pueden tener un `font-size` particular.
 
-   + Las entradas o inputs tienen un `border-bottom`(borde de abajo) gris (`grey`) pero no debe tener bordes a los lados ni arriba, prueba con `border: none` y luego `border-bottom`.
+## Resultado Esperado:
 
-   + El párrafo y/o párrafos puede que tener un `font-size` particular.
-
-Así debería verse tu sitio web:
++ Así debería verse tu sitio web:
 
 ![Postcard body content](../../assets/12.1.png)
+
+## 💡 Pista:
+
++ Piensa en el layout (diseño) de esos tags. Los inputs estarán uno sobre sobre el otro.

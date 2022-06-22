@@ -1,17 +1,17 @@
-## `09` Conectando tus estilos
+# `09` Connecting Stylesheet
 
-En tu archivo styles.css hemos especificado que el `body` de tu sitio web en color negro.
+En tu archivo `styles.css` hemos especificado que queremos que el `body` del sitio web sea de color negro. Para que esto funcione, debemos conectar ese archivo con el de `index.html`, por medio del tag `<link>`.
 
-Conectémos tu `styles.css` con tu `index.html` usando un tag `<link>`.
+> El tag `<link>` es la única manera de conectar stylesheets (hoja de estilos) **CSS** con archivos **HMTL**.
 
-La etiqueta link es la única manera de conectar tu hoja de estilos (stylesheets) CSS con archivos HMTL.
+## 📝 Instrucciones:
 
-## 📝 Instrucciones
-
-Añade el siguiente código dentro de las etiquetas de apertura y cierre de `<head></head>`:
+1. Añade el siguiente código dentro de los tags de apertura y cierre `<head></head>`.
 
 ```html
 <link rel="stylesheet" href="styles.css">
 ```
 
-Nota: si la conexión entre CSS y HTML fue exitosa, tu sitio web debería tener un fondo **negro** luego de hacer clic en build.
+## 💡 Pista:
+
++ Si la conexión entre CSS y HTML fue exitosa, tu sitio web debería tener un fondo **negro** luego de hacer clic en `build`.

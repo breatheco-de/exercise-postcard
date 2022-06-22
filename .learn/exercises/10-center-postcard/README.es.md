@@ -1,35 +1,52 @@
-## `10` Centrando la Postcard
+# `10` Center Postcard
 
-Tu sitio web está de color negro, pero tu postal o postcard debería tener un fondo blanco.
+En estos momentos tu sitio web está de color negro, pero tu postcard debería tener un fondo blanco.
 
-Para aplicar colores, tamaños o cualquier estilo a un elemento primero debemos especificar (o "seleccionar") el elemento en la hoja de estilos CSS.
+Para aplicar colores, tamaños o cualquier estilo a un elemento, primero debemos especificar (o "seleccionar") el elemento en la hoja de estilos CSS.
 
-Por ejemplo, si quieres aplicarle color un color azul a todas las etiquetas o tags `<p>`en tu sitio web puedes escribir esto en tu hoja de estilos:
+## 🔹 Ejemplo:
+
+Si quisiéramos aplicarle un color azul a todos los tags `<p>` en tu sitio web, una manera de hacerlo sería escribiendo esto en tu stylesheet:
 
 ```css
 p{
     color: blue;
 }
 ```
+
+## Formas de seleccionar:
+
 Hay tres formas de seleccionar (o especificar) los elementos a los que quieras aplicarles estilos:
-- Selector `#id`: Usa el símbolo gato `#` al inicio del selector.
-- Selector `.class`: Usa un punto `.`  al inicio del selector.
-- Selector `tag`: No usa símbolo al inicio del selector.
 
-## 📝 Instrucciones
+   1. Selector `#id`: Usa el símbolo hashtag `#` al inicio del selector.
+   2. Selector `.class`: Usa un punto `.`  al inicio del selector.
+   3. Selector `tag`: No usa símbolo al inicio del selector.
 
-Dentro de la etiqueta `<body>` hay un div con la clase o class "postcard" que será nuestra caja blanca.
+Ahora que ya tienes una idea de como funciona, sigamos con el ejercicio... ¿Te parece? 😎
 
-Por favor crea un un selector de tipo clase (usando el punto `.`) `.postcard` dentro de tu archivo styles.css y ponle un fondo blanco o `background` white, un ancho de `400px`, una altura de `300px`y un margen o margin `auto`(para centrar horizontalmente el div).
+Dentro del tag `<body>` hay un `<div>` con el `class` (clase) "postcard", que será nuestra caja blanca.
+
+## 📝 Instrucciones:
+
+1. Crea un un selector de tipo `class` (usando el punto `.`) `.postcard` dentro de tu archivo **styles.css** y ponle:
+
+    + Un `background` (fondo) blanco.
+    + Un `width` (ancho) de `400px`.
+    + Una `height` (altura) de `300px`.
+    + Un `margin` (margen) `auto`.
+
+## 💡 Pistas:
+
++ Tu código debería de verse algo así.
 
 ```css
 .postcard{
-    // tus estilos aquí
+    // tus estilos van aquí
 }
 ```
 
-Nota: el `margin: auto;` centrará horizontalmente la caja.
++ El `margin: auto;` centrará horizontalmente el div.
 
-## 😄 Apreta el botón "build"
+## 🔎 Importante:
 
-Apreta el botón "build" para que veas como va quedando tu website.
++ ¡Dale clic al botón "build" para que veas como va quedando tu website.

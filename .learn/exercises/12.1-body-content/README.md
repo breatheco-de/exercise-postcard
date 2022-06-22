@@ -2,34 +2,52 @@
 tutorial: https://www.youtube.com/watch?v=gP1Qu3j1WTQ
 ---
 
-## `12.1` Postcard-body content
+# `12.1` Body Content
 
-What elements should be inside the postcard body? Can you try and identify them, based on the HTML tags we mentioned earlier?
+What elements should be inside the `postcard-body`? Can you try and identify based on the HTML `<tags>` we mentioned earlier?
 
-Possible options: Headings (h1, h2, h3, etc.), Paragraphs, Images, Divisions, Inputs, Checkbox, etc.
+💻 Possible options: Headings (h1, h2, h3, etc.), Paragraphs, Images, Divisions, Inputs, Checkbox, etc.
 
 ![Postcard body content](../../assets/12.1-body-content.gif)
 
-## 📝 Instructions
+Now we need to create the necessary HTML tags to finish the content of your `.post-card` and apply the missing styles to make them look like the image.
 
-Create the neceary HTML tags to finish the `.post-card` content and apply the necesary styles to make them look like the picture.
+## 📝 Instructions:
 
-Think about the layout for those tags:
+1. The first `<p>` does not need a `margin-top`. So you should remove it.
 
-   + The inputs are going to be one on top of each other.
+```css
+.body-left p:first-child {
+	margin-top: x;
+}
+```
 
-   + The text inputs are also going to be one on top of each other.
+2. The `.body-left` and `.body-right` must have `padding` to separate text from the edges of the boxes.
 
-Also think about what styles are you going to apply:
+```css
+.body-left,
+.body-right {
+	padding: x;
+}
+```
 
-   + The first `<p>` does not need a margin top.
+3. The inputs should have a `border-bottom` in ` grey` but no borders on the sides and top, try with `border: none` and then `border-bottom`.
 
-   + `.body-left` and `.body-right` must have padding to separate text from the edges of the boxes.
+```css
+input {
+	border: x;
+	border-bottom: x;
+}
+```
 
-   + The inputs have a `border-bottom` in grey but no borders on the sides and top, try `border: none` then `border-bottom`.
+4. The paragraphs may have a particular `font-size`.
 
-   + The paragraphs and/or paragraphs may have a particular `font-size`.
+## Expected Result:
 
-This is how your website should look like so far:
++ This is how your website should look like so far:
 
 ![Postcard body content](../../assets/12.1.png)
+
+## 💡 Hint:
+
++ Think about the layout for those tags. The inputs are going to be one on top of each other.

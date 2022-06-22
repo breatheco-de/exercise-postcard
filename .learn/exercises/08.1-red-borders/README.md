@@ -1,6 +1,10 @@
-## `08` Styles for debugging
+# `08.1` Red Borders
 
-To be able to debug better the application, we strongly recomend to include the following styles inside your style.css.
+To be able to debug better the application, we strongly recomend to include certain styles inside your `style.css`.
+
+## 📝 Instructions:
+
+1. Copy and paste into your `style.css` file, the following code.
 
 ```css
 * {
@@ -9,8 +13,12 @@ To be able to debug better the application, we strongly recomend to include the 
 }
 ```
 
-This code is going to add a red dashed border to every element in the website making them easier to see and debug.
+## 💡 Hint:
 
-![Red Borders](../../assets/red-borders.png?raw=true)
++ This code is going to add a red dashed border to every element in the website, making them easier to see and debug.
 
-Note: This code will be removed once you finish your postcard.
+     ![Red Borders](../../assets/red-borders.png?raw=true)
+
+## 🔎 Important:
+
++ This code will be removed once you finish your postcard.
