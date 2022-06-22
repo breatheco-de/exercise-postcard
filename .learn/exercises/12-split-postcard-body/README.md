@@ -43,7 +43,7 @@ We also have to divide the `postcard-body` in two inner `<div>` because we need 
 
 ## 💡 Hint:
 
-+ Something like this should look like in your HTML file.
++ Your HTML file should look similar to this:
 
  ```html
    <div class="postcard-body">
