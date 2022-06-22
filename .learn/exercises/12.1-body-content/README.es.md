@@ -1,4 +1,4 @@
-# `12.1` Postcard-body content
+# `12.1` Body Content
 
 ¿Qué elementos deben estar en el `postcard-body`? ¿Puedes identificarlos de acuerdo a los `<tags>` ya mencionados?
 
