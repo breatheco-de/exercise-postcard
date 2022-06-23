@@ -23,31 +23,64 @@ test("Create a .postcard selector on your stylesheet", function () {
     dom.selector('.postcard')
 })
 
-test("Add the background, width, height and margin CSS rules to your class", function () {
+test("The .postcard class should have a white background", function () {
     dom = dom.withStylesheet();
     let result, result2 = false
     try {
 
         result = dom.selector('.postcard').hasStyles({
-            background: "white",
-            width: "400px",
-            height: "300px",
-            margin: "auto",
+            background: "white"
         })
 
     } catch (error) {
-        
+
     }
     try {
         result2 = dom.selector('.postcard').hasStyles({
-            "background-color": "white",
-            width: "400px",
-            height: "300px",
-            margin: "auto",
+            "background-color": "white"
         })
     } catch (error) {
-        
+
     }
 
     expect(result || result2).toBe(true)
+})
+
+test("The .postcard class should have 400px of width", () => {
+    dom = dom.withStylesheet();
+    let result = false
+    try {
+        result = dom.selector('.postcard').hasStyles({
+            width: "400px"
+        })
+    } catch (error) {
+
+    }
+    expect(result).toBe(true)
+})
+
+test("The .postcard class should have 300px of height", () => {
+    dom = dom.withStylesheet();
+    let result = false
+    try {
+        result = dom.selector('.postcard').hasStyles({
+            height: "300px"
+        })
+    } catch (error) {
+
+    }
+    expect(result).toBe(true)
+})
+
+test("The .postcard class should have margin auto", () => {
+    dom = dom.withStylesheet();
+    let result = false
+    try {
+        result = dom.selector('.postcard').hasStyles({
+            margin: "auto"
+        })
+    } catch (error) {
+
+    }
+    expect(result).toBe(true)
 })

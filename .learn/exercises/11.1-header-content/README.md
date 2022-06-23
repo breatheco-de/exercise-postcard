@@ -12,7 +12,7 @@ What HTML `<tags>` do you think we should use to represent a title and an image?
 
 ## 📝 Instructions:
 
-1. Add a `<h1>` tag inside the content of `.postcard-header` (make sure the **h1** contains the desired title for the postcard).
+1. Add a `<h1>` tag inside the content of `.postcard-header` with the text **"My Postcard"** (make sure the **h1** contains the desired title for the postcard).
 
 2. Add a `<img>` tag inside the same div, the **image** and the **h1** must be siblings (immediate children of the `.postcard-header`)
 

@@ -8,9 +8,9 @@ En el diseño que debemos realizar, el `postcad-header` tiene un título a la iz
 
 ## 📝 Instrucciones:
 
-1. Agrega un tag `<h1>` dentro del del contenido de `.postcard-header` (asegúrate de que el **h1** contenga el título deseado para el postcard).
+1. Agrega un tag `<h1>` dentro del contenido de `.postcard-header`, cuyo text debe ser **"My Postcard"** (asegúrate de que el **h1** contenga el título deseado para el postcard).
 
-2. Agrega un tag `<img>` dentro del mismo div, la **imagen** y el **h1** deben ser hermanos (hijos inmediatos del `.postcard-header`) 
+2. Agrega un tag `<img>` dentro del mismo div. La **imagen** y el **h1** deben ser hermanos (hijos inmediatos del `.postcard-header`) 
 
 3. Haz que la imagen tenga este URL:
 

@@ -37,7 +37,7 @@ Dentro del tag `<body>` hay un `<div>` con el `class` (clase) "postcard", que se
 
 ## 💡 Pistas:
 
-+ Tu código debería de verse algo así.
++ Tu código debería de verse algo así:
 
 ```css
 .postcard{

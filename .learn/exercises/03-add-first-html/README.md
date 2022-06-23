@@ -14,5 +14,4 @@ An HTML `<tag>` is just a sentence that starts and ends with the same word.
 
 ## 📝 Instructions: 
 
-1. Add into your `index.html` file the HTML in the example:
-
+1. Add into your `index.html` file the HTML code of the example

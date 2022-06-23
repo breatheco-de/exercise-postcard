@@ -30,7 +30,7 @@ test("Create another div inside the .postcard-body and add the class .body-right
     expect(e).toBeTruthy();
 })
 
-test("The .postcard-body css selector should had a display: flex", function(){
+test("The .postcard-body css selector should have a display: flex", function(){
     dom = dom.withStylesheet();
     dom.selector('.postcard-body').hasStyles({
         display: "flex",

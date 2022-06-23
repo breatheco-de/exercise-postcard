@@ -10,7 +10,7 @@ All websites need a basic HTML template that includes a `<body>`, `<head>`, etc.
 
 ## 📝 Instructions: 
 
-1. Delete all the previous content inside the `index.html` and paste this:
+1. Delete all the previous content inside the `index.html` and paste this code:
 
 ```html
 <!DOCTYPE html>

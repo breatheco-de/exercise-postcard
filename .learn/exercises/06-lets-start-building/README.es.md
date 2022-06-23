@@ -2,11 +2,11 @@
 
 ¡Es hora de empezar a construir tu Postcard!
 
-Todos los sitios web tienen un formato HTML básiso que incluye un `<body>`, un `<head>`, etc.
- 
+Todos los sitios web tienen un formato HTML básico que incluye un `<body>`, un `<head>`, etc.
+
 ## 📝 Instrucciones:
 
-1. Elimina todo el contenido dentro del archivo `index.html` y pega lo siguiente:
+1. Elimina todo el contenido dentro del archivo `index.html` y pega el siguiente código:
 
 ```html
 <!DOCTYPE html>

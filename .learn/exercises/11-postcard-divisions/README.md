@@ -18,7 +18,7 @@ Now we have to keep building the strategy for our HTML, we have to continue divi
     1.2. .postcard-body
     1.3. .postcard-footer
 ```
->Note: All three of them are immediate childs.
+>Note: All three of them are immediate children.
 
 ## 💡 Hint:
 
