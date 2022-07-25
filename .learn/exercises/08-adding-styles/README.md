@@ -6,7 +6,7 @@ tutorial: https://www.youtube.com/watch?v=EbkgFTqpRxc
 
 If you `build` your website right now, you will see that it only says "Hello". That is because the `<div>` we just added is invisible; let's change that.
 
-To start bringing your website to life, we must begin by adding a `style.css` file. This will contain all our website styling code.
+To start bringing your website to life, we must begin by adding a `styles.css` file. This will contain all our website styling code.
 
 ## 📝 Instructions:
 
