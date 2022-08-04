@@ -17,7 +17,7 @@ b) Clonar este repositorio localmente en tu computador:
 $ git clone https://github.com/breatheco-de/exercise-postcard
 ```
 
-💡 Importante: Para salvar el proyecto en github recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+💡 Importante: Para guardar el proyecto en github recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## Instrucciones
 
