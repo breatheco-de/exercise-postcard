@@ -4,7 +4,7 @@ tutorial: https://www.youtube.com/watch?v=7sFt2ztayBE
 
 # `11.1` Header Content
 
-Now it is time to include our content inside the `.postcad-header` div.
+Now it is time to include our content inside the `.postcard-header` div.
 
 The `postcard-header` contains one title on the left and one image on the right. 
 
