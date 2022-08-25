@@ -1,8 +1,8 @@
 # `11.1` Header Content
 
-Ahora vamos a comenzar a llenar los `<div>` que hemos creado, empezando por el que tiene la clase `.postcad-header`.
+Ahora vamos a comenzar a llenar los `<div>` que hemos creado, empezando por el que tiene la clase `.postcard-header`.
 
-En el diseño que debemos realizar, el `postcad-header` tiene un título a la izquierda y una imagen a la derecha.
+En el diseño que debemos realizar, el `postcard-header` tiene un título a la izquierda y una imagen a la derecha.
 
 ¿Qué `<tags>` HTML crees que debemos utilizar para representar un título y una imagen? 🤔
 
