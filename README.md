@@ -5,7 +5,7 @@ Who does not like postcards? This is one of your first exercises (if not the fir
 
 Let's create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
 
-## 🌱  How to start this project.
+## 🌱  How to start this project?.
 
 This project comes with the necessary files to start working, so you just need to clone its repository to start. You have two options for that:
 
