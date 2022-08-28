@@ -5,7 +5,7 @@
 
 Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre o con tu otra mitad, ¡ella/él se va a sentir orgullosa/o! :)
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱  ¿Cómo iniciar este proyecto?
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
