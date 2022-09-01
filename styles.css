@@ -38,11 +38,6 @@ body {
 	padding: 10px;
 }
 
-input {
-	border: none;
-	border-bottom: 5px grey;
-}
-
 p {
 	font-size: large;
 }
@@ -59,4 +54,12 @@ button {
 
 h1 {
 	margin: auto;
+}
+
+input {
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom-color: grey;
+	border-bottom-width: 2px;
 }
