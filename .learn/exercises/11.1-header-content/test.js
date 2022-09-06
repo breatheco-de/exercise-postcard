@@ -32,7 +32,7 @@ test("Create an heading 1 inside the .postcard-header div", function(){
 
 test("The h1 inside postcard header should say 'My Postcard'", function(){
     const e =dom.querySelector('.postcard-header').inside().querySelector('h1')
-    expect(e.innerHTML.toLowerCase()).toEqual(expect.stringContaining("My Postcard".toLowerCase()));
+    expect(e.innerHTML.toLowerCase()).toEqual("My Postcard".toLowerCase());
 })
 
 test("The image tag should contain the given URL as src, E.g: <img src='the_image_src_goes_here' />", function(){

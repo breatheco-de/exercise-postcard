@@ -41,7 +41,7 @@ Inside the `<body>` tag we have a `<div>` with the `class` "postcard" that is go
 
 ## 💡 Hints:
 
-+ Your code should look something like this.
++ Your code should look something like this:
 
 ```css
 .postcard{
