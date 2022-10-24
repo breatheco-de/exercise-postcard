@@ -15,8 +15,8 @@
         "html-layouts"
     ],
     "difficulty": "beginner",
-    "video-solutions": true, 
-    "bugs-link": "https://github.com/learnpack/learnpack/issues/new",
+    "videoSolutions": true, 
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "technologies": [
         "html",
         "css"
