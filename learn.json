@@ -17,6 +17,7 @@
     "difficulty": "beginner",
     "videoSolutions": true, 
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+    "projectType": "tutorial",
     "technologies": [
         "html",
         "css"
