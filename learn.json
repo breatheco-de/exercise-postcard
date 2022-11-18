@@ -19,7 +19,8 @@
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "technologies": [
         "html",
-        "css"
+        "css",
+	"layouts"
     ],
     "description": "Replicate this postcard with CSS and HTML",
     "preview": "https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true",
