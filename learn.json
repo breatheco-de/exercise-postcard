@@ -54,8 +54,8 @@
     },
     "delivery": {
 	"instructions": {
-		"us": "Please specify a snapshop URL of your Gitpod workspace. <a href='https://4geeks.com/es/how-to/como-crear-un-snapshot-de-tu-workspace-en-gitpod'>How to create and upload your snapshot</a>",
-		"es": "Por favor especifica el snapshop URL de tu Workspace en Gitpod. <a href='https://4geeks.com/en/how-to/gitpod-snapshot'>Como crear y subir tu snapshot</a>"
+		"us": "Please specify a snapshop URL of your Gitpod workspace. <a href='https://4geeks.com/en/how-to/gitpod-snapshot'>How to create and upload your snapshot</a>",
+		"es": "Por favor especifica el snapshop URL de tu Workspace en Gitpod. <a href='https://4geeks.com/es/how-to/como-crear-un-snapshot-de-tu-workspace-en-gitpod'>Como crear y subir tu snapshot</a>"
 	},
 	"formats": ["url"],
 	"regex": "gitpod.io#snapshot"
