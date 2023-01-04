@@ -3,7 +3,7 @@
 <!-- endhide -->
 ¿A quién no le gustan las postales? Este es uno de tus primeros ejercicios (si no es el primero) y es divertido y relativamente fácil :)
 
-Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre o con tu otra mitad, ¡ella/él se va a sentir orgullosa/o! :)
+Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre, tus amigos o con tu otra mitad, ¡ella/él se va a sentir orgullosa/o! :)
 
 ## 🌱  ¿Cómo iniciar este proyecto?
 
@@ -19,9 +19,9 @@ $ git clone https://github.com/breatheco-de/exercise-postcard
 
 💡 Importante: Para guardar el proyecto en github recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <your new url>`), y guarda tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
-## Instrucciones
+##  Instrucciones
 
-Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png).
+Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png). 
 
 ![postcard preview](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true)
 
