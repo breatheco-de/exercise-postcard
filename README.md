@@ -8,7 +8,7 @@ Let's create a postcard with HTML5 and CSS and then you can share it with your m
 ## 🌱  How to start this project?
 
 1. Make sure you have a Github account at:  https://github.com
-2. We recommend to open this reposiory using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can cloning it on your local computer using the `git clone` command. 
+2. We recommend to open this reposiory using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can cloning it on your local computer using the `git clone` command. 
 
 This is the repository you need to open or clone:
 
