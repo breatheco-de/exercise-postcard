@@ -8,7 +8,9 @@ Let's create a postcard with HTML5 and CSS and then you can share it with your m
 ## 🌱  How to start this project?
 
 1. Make sure you have a Github account at:  https://github.com
-2. Opening this repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) (recommended) or cloning it on your local computer. This is the repository you need to open:
+2. We recommend to open this reposiory using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can cloning it on your local computer. 
+
+This is the repository you need to open:
 
 ```
 https://github.com/breatheco-de/exercise-postcard
