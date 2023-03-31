@@ -7,19 +7,15 @@ Let's create a postcard with HTML5 and CSS and then you can share it with your m
 
 ## 🌱  How to start this project?
 
-This project comes with the necessary files to start working, so you just need to clone its repository to start. You have two options for that:
+1. Make sure you have a Github account at:  https://github.com
+2. Opening this repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) (recommended) or cloning it on your local computer. This is the repository you need to open:
 
-a) Most 4Geeks students should open this project with Gitpod by simply clicking on the link: https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git
-	
-+ If you do not have a Gitpod account yet, please register with your Github username at: https://www.gitpod.io/ 
-
-+ You can start your Github account at:  https://github.com/
- 
-b) Only if the method above is not possible, and you need to work locally in an IDE on your computer, you can clone the project by running the below command in the terminal of your IDE:
-
-```bash
-$ git clone  https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git 
 ```
+https://github.com/breatheco-de/exercise-postcard
+```
+
+**Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
+
 
 The exercises will start and show the instructions automatically but if you encounter any issues you can try running them manually by typing in your command line the following:
 
