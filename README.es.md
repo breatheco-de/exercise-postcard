@@ -1,6 +1,7 @@
 <!-- hide -->
-# The Postcard
+# La Postal 
 <!-- endhide -->
+
 ¿A quién no le gustan las postales? Este es uno de tus primeros ejercicios (si no es el primero) y es divertido y relativamente fácil :)
 
 Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre o con tu otra mitad, ¡ella/él se va a sentir orgullosa/o! :)
