@@ -9,7 +9,7 @@ Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre
 ## 🌱  ¿Cómo iniciar este proyecto?
 
 1. Asegura que ya tienes una cuenta en GitHub:  https://github.com
-2. Recomendamos que abras este repositorio utilizando una ambiente como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
+2. Recomendamos que abras este repositorio utilizando una ambiente como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Como última opción puedes clonar el repositorio localmente en tu computador utilizando el comando `git clone`.
 
 Este es el repositorio que debes abrir:
 
@@ -17,7 +17,7 @@ Este es el repositorio que debes abrir:
 https://github.com/breatheco-de/exercise-postcard
 ```
 
-**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/lesson/how-to-start-a-project).
+**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
 ## Instrucciones
 
