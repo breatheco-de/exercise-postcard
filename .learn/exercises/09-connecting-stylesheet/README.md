@@ -17,4 +17,4 @@ In your `styles.css` file we have specified that we want the `body` of the websi
 ```
 ## 💡 Hint:
 
-+ If the connection between CSS and HTML was successfull, your website should be **black** after you build.
++ If the connection between CSS and HTML was successful, your website should be **black** after you build.
