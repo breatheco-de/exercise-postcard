@@ -6,11 +6,11 @@
 
 ![Postcard body content](../../assets/12.1-body-content.gif)
 
-Ahora debemos crear los tags HTML necesarios para terminar el contenido de tu `.post-card` y aplicar los estilos que faltan para que se parezca a la imagen.
+Ahora debemos crear los tags HTML necesarios para terminar el contenido de tu `.postcard` y aplicar los estilos que faltan para que se parezca a la imagen.
 
-## 📝 Instructiones:
+## 📝 Instrucciones:
 
-1. La primera `<p>` no necesita  `margin-top` (margen superior), así que debes eliminarlo.
+1. El primer `<p>` no necesita `margin-top` (margen superior), así que debes eliminarlo.
 
 ```css
 .body-left p:first-child {
@@ -46,4 +46,4 @@ input {
 
 ## 💡 Pista:
 
-+ Piensa en el layout (diseño) de esos tags. Los inputs estarán uno sobre sobre el otro.
++ Piensa en el layout (diseño) de esos tags. Los inputs estarán uno sobre el otro.
