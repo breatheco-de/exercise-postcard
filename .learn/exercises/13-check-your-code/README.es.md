@@ -6,7 +6,7 @@ La última parte será el pie del postcard. ¿Cuál es el único elemento presen
 
 ## 📝 Instrucciones:
 
-1. Crea un botón "`button`" en tu archivo `index.html` y agrégalo al div con la clase: `.postcard-footer`.
+1. Crea un botón `<button>` en tu archivo `index.html` y agrégalo al div con la clase: `.postcard-footer`.
 
 ```html
 <div class="postcard-footer">

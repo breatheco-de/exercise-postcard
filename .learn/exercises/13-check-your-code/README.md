@@ -10,7 +10,7 @@ The last part will be our footer. What is the only element present in the footer
 
 ## 📝 Instructions:
 
-1. Create a `button` in your `index.html` file, and add it to the div with class `.postcard-footer`.
+1. Create a `<button>` in your `index.html` file, and add it to the `<div>` with class `.postcard-footer`.
 
 ```html
 <div class="postcard-footer">
@@ -25,6 +25,7 @@ The last part will be our footer. What is the only element present in the footer
 	text-align: x;
 }
 ``` 
+
 3. Apply a darker `background` and a `padding` to the button.
 
 ```css
