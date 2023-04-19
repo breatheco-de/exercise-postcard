@@ -14,4 +14,4 @@ Un `<tag>` HTML es simplemente una oración que comienza y termina con la misma 
 
 ## 📝 Instructiones:
 
-1. Añade dentro de tu archivo `index.html` el código HTML que aparece en el ejemplo
+1. Añade dentro de tu archivo `index.html` el código HTML que aparece en el ejemplo.
