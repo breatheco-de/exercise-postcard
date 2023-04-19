@@ -41,9 +41,9 @@ También tenemos que dividir el **body** del postcard, es decir, hay que añadir
 
 + Algo así debería de verse en tu archivo HTML.
 
-   ```html
+```html
    <div class="postcard-body">
 		<div class="body-left">--soy el lado izquierdo--</div>
 		<div class="body-right">--soy el lado derecho--</div>
 	</div>
-   ```
+```
