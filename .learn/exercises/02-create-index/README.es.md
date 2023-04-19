@@ -8,4 +8,4 @@ Todos los sitios web en el mundo deben comenzarse con un archivo llamado `index.
 
 ## 💡 Pista:
 
-+ Debes ser cuidadoso porque el nombre del archivo debe ser exactamante ese.
++ Debes ser cuidadoso porque el nombre del archivo debe ser exactamente ese.
