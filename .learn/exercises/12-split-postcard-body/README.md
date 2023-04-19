@@ -39,7 +39,7 @@ We also have to divide the `postcard-body` in two inner `<div>` because we need 
 
 + This is how your website should look like: 
 
-![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
+    ![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
 
 ## 💡 Hint:
 
