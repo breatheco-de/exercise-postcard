@@ -14,6 +14,6 @@
 
 ## 💡 Hints:
 
-+ The first command should look like this: `git remote add upstream https://www.github.com/username/repository-name.git`. Notice that it doesn't have these `<>` symbols on the repository-url.
++ The first command should look like this: `git remote add upstream https://www.github.com/username/repository-name.git`. Notice that it doesn't have these `<>` symbols on the repository URL.
 
 + The third command should include the message with quotemarks `""`. It should look like this: `git commit -m "First version of the project ready"`.
