@@ -1,6 +1,6 @@
 # `05` How to start
 
-Para comenzar a construir tu sitio web, es importante identificar cuales `<tags>` necesitas para este diseño en particular. 
+Para comenzar a construir tu sitio web, es importante identificar cuáles `<tags>` necesitas para este diseño en particular. 
 
 Echa un vistazo a esta animación que te muestra que `<tags>` debes usar en tu postcard:
 
@@ -12,14 +12,14 @@ Echa un vistazo a esta animación que te muestra que `<tags>` debes usar en tu p
 
 ## 📝 Instrucciones:
 
-1. Memoriza los 6 `<tags>` HTML más importantes y para que se usan:
+1. Memoriza los 6 `<tags>` HTML más importantes y para qué se usan:
  
-| tag o etiqueta        | uso         |
+| Tag                   | Uso                   |
 | -----------------     | --------------------- |
-| `<p>`                 | para párrafos        |
+| `<p>`                 | para párrafos         |
 | `<button>`            | para botones          |
-| `<img>`               | para imágenes            |
+| `<img>`               | para imágenes         |
 | `<h1>` `<h2>` `<h3>`  | títulos (headings), donde `h1` es el más grande, y `h6` el más pequeño |
-| `<div>`               | divide a tu sitio web en cuadrados (cajas)  |
+| `<div>`               | divide tu sitio web en cuadrados (cajas)  |
 | `<input>`             | permite que los usuarios ingresen información |
 

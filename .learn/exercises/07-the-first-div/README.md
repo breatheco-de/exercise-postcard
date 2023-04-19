@@ -4,9 +4,9 @@ tutorial: https://www.youtube.com/watch?v=bB7MLP37zqk
 
 # `07` The first div
 
-Now that we have our basic structure it is time to add our first element inside the `<body>` tags.
+Now that we have our basic structure, it is time to add our first element inside the `<body>` tags.
 
-Most of the time, the first element inside the `<body>` is a `<div>`, (div stands for division). Basically they are great tools to split your website in several sections.
+Most of the time, the first element inside the `<body>` is a `<div>`, (div stands for division). Basically, they are great tools to split your website into several sections.
 
 ![step-1](../../assets/07-the-first-div.png?raw=true)
 

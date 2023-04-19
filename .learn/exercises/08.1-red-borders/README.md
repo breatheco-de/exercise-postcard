@@ -1,10 +1,10 @@
 # `08.1` Red Borders
 
-To be able to debug better the application, we strongly recomend to include certain styles inside your `style.css`.
+To be able to debug better the application, we strongly recommend to include certain styles inside your `styles.css`.
 
 ## 📝 Instructions:
 
-1. Copy and paste into your `style.css` file, the following code.
+1. Copy and paste into your `styles.css` file, the following code:
 
 ```css
 * {

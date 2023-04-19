@@ -12,4 +12,4 @@ Now it's time to see how your changes look like on your website!
 
 ## 🔎 Important:
 
-+ You can build as many times as you want, we recommend you to do it everytime you make changes, that way you can check your progress as you go.
++ You can build as many times as you want, we recommend you to do it every time you make changes, that way you can check your progress as you go.

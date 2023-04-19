@@ -1,10 +1,10 @@
 # `08.1` Red Borders
 
-Para poder depurar mejor la aplicación, te recomendamos incluir ciertos estilos dentro de tu `style.css`.
+Para poder depurar mejor la aplicación, te recomendamos incluir ciertos estilos dentro de tu `styles.css`.
 
 ## 📝 Instrucciones:
 
-1. Copia y pega dentro de tu archivo `style.css`, el siguiente código.
+1. Copia y pega dentro de tu archivo `styles.css`, el siguiente código.
 
 ```css
 * {
@@ -15,7 +15,7 @@ Para poder depurar mejor la aplicación, te recomendamos incluir ciertos estilos
 
 ## 💡 Pista:
 
-+ Este código añadirá un borde rojo con una línea punteada a cada elemento del sitio web, así podrás visualizarlas más fácilmente para depurarlas.
++ Este código añadirá un borde rojo con una línea punteada a cada elemento del sitio web, así podrás visualizar y depurar todo más fácilmente.
 
      ![Red Borders](../../assets/red-borders.png?raw=true)
 

@@ -1,10 +1,10 @@
 # `04` Build the website
 
-¡Es hora de ver cómo se ven los cambios en tu sitio web!
+¡Es hora de revisar cómo se ven los cambios en tu sitio web!
 
-## 📝 Instructiones:
+## 📝 Instrucciones:
 
-1. Haz clic en botón `build` en la esquina superior izquierda, sobre la instrucciones, para ver tu website en vivo. 
+1. Haz clic en botón `build` en la esquina superior izquierda, sobre las instrucciones, para ver tu website en vivo. 
 
 ## 💡 Pista: 
 
