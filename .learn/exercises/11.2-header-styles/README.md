@@ -35,7 +35,7 @@ On the other hand, to make the image smaller we have to use the CSS properties: 
 }
 ```
 
-3. Make the `<h1>` much wider to push the image to the right side of the postcard. Also remove the margins from the h1.
+3. Make the `<h1>` much wider to push the image to the right side of the postcard. Also remove the margins from the `<h1>`.
 
 ```css
 .postcard-header h1 {
