@@ -14,7 +14,7 @@ Por otro lado, para hacer la imagen más pequeña hay que usar propiedades CSS: 
 
 ## 📝 Instrucciones:
 
-1. Aplícale la propiedad `display:flex` al div `.postcard-header`. 
+1. Aplícale la propiedad `display:flex` a `.postcard-header`. 
 
 ```css
 .postcard-header {
@@ -31,7 +31,7 @@ Por otro lado, para hacer la imagen más pequeña hay que usar propiedades CSS: 
 }
 ```
 
-3. Haz que el `<h1>` sea mucho más ancho para empujar la imagen hacia el lado derecho del postcard. También elimina los márgenes del h1.
+3. Haz que el `<h1>` sea mucho más ancho para empujar la imagen hacia el lado derecho del postcard. También elimina los márgenes del `<h1>`.
 
 ```css
 .postcard-header h1 {
