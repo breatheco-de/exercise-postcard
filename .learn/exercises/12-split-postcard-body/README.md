@@ -4,7 +4,7 @@ tutorial: https://www.youtube.com/watch?v=EZ20QN091wM
 
 # `12` Split Postcard Body
 
-We also have to divide the `postcard-body` in two inner `<div>` because we need to put them **on the side** of the other, this can only be done by assigning `display: flex` to their shared parent.
+We also have to divide the `postcard-body` in two inner `<div>` because we need to put them **on the side** of each other, this can only be done by assigning `display: flex` to their shared parent.
 
 ![Split Postcard Body](../../assets/12-split-postcard-body.gif?raw=true)
 
