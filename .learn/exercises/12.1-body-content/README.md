@@ -10,7 +10,7 @@ What elements should be inside the `postcard-body`? Can you try and identify bas
 
 ![Postcard body content](../../assets/12.1-body-content.gif)
 
-Now we need to create the necessary HTML tags to finish the content of your `.post-card` and apply the missing styles to make them look like the image.
+Now we need to create the necessary HTML tags to finish the content of your `.postcard` and apply the missing styles to make them look like the image.
 
 ## 📝 Instructions:
 
@@ -31,7 +31,7 @@ Now we need to create the necessary HTML tags to finish the content of your `.po
 }
 ```
 
-3. The inputs should have a `border-bottom` in ` grey` but no borders on the sides and top, try with `border: none` and then `border-bottom`.
+3. The inputs should have a `border-bottom` in `grey` but no borders on the sides and top, try with `border: none` and then `border-bottom`.
 
 ```css
 input {

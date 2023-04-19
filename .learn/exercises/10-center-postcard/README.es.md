@@ -9,7 +9,7 @@ Para aplicar colores, tamaños o cualquier estilo a un elemento, primero debemos
 Si quisiéramos aplicarle un color azul a todos los tags `<p>` en tu sitio web, una manera de hacerlo sería escribiendo esto en tu stylesheet:
 
 ```css
-p{
+p {
     color: blue;
 }
 ```
@@ -28,7 +28,7 @@ Dentro del tag `<body>` hay un `<div>` con el `class` (clase) "postcard", que se
 
 ## 📝 Instrucciones:
 
-1. Crea un un selector de tipo `class` (usando el punto `.`) `.postcard` dentro de tu archivo **styles.css** y ponle:
+1. Crea un selector de tipo `class` (usando el punto `.`) `.postcard` dentro de tu archivo **styles.css** y ponle:
 
     + Un `background` (fondo) blanco.
     + Un `width` (ancho) de `400px`.
@@ -40,13 +40,13 @@ Dentro del tag `<body>` hay un `<div>` con el `class` (clase) "postcard", que se
 + Tu código debería de verse algo así:
 
 ```css
-.postcard{
-    // tus estilos van aquí
+.postcard {
+    /* tus estilos van aquí */
 }
 ```
 
-+ El `margin: auto;` centrará horizontalmente el div.
++ El `margin: auto;` centrará horizontalmente el `<div>`.
 
 ## 🔎 Importante:
 
-+ ¡Dale clic al botón "build" para que veas como va quedando tu website.
++ ¡Dale clic al botón `build` para que veas como va quedando tu website!

@@ -33,7 +33,7 @@ También tenemos que dividir el **body** del postcard, es decir, hay que añadir
 
 ## Resultado Esperado:
 
-+ Así es como tu website debe lucir despues de estos cambios:
++ Así es como tu website debe lucir después de estos cambios:
 
     ![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
 
@@ -41,9 +41,9 @@ También tenemos que dividir el **body** del postcard, es decir, hay que añadir
 
 + Algo así debería de verse en tu archivo HTML.
 
-   ```html
+```html
    <div class="postcard-body">
 		<div class="body-left">--soy el lado izquierdo--</div>
 		<div class="body-right">--soy el lado derecho--</div>
 	</div>
-    ```
+```

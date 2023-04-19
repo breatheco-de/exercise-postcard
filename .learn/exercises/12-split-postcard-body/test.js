@@ -20,17 +20,17 @@ test("Make sure your index.html contains the <link> tag", function(){
     expect(linkTag).not.toBe(null);
 })
 
-test("Create a div inside the .postcard-body and add the class .body-left to it", function(){
+test("Create a <div> inside the .postcard-body and add the class .body-left to it", function(){
     const e=dom.querySelector('.postcard-body').inside().querySelector('div.body-left')
     expect(e).toBeTruthy();
 })
 
-test("Create another div inside the .postcard-body and add the class .body-right to it", function(){
+test("Create another <div> inside the .postcard-body and add the class .body-right to it", function(){
     const e=dom.querySelector('.postcard-body').inside().querySelector('div.body-right')
     expect(e).toBeTruthy();
 })
 
-test("The .postcard-body css selector should have a display: flex", function(){
+test("The .postcard-body CSS selector should have a display: flex", function(){
     dom = dom.withStylesheet();
     dom.selector('.postcard-body').hasStyles({
         display: "flex",

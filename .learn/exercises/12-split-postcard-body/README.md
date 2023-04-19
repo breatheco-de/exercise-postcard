@@ -4,7 +4,7 @@ tutorial: https://www.youtube.com/watch?v=EZ20QN091wM
 
 # `12` Split Postcard Body
 
-We also have to divide the `postcard-body` in two inner `<div>` because we need to put them **one on the side** of the other, this can only be done by assigning `display: flex` to their shared parent.
+We also have to divide the `postcard-body` in two inner `<div>` because we need to put them **on the side** of each other, this can only be done by assigning `display: flex` to their shared parent.
 
 ![Split Postcard Body](../../assets/12-split-postcard-body.gif?raw=true)
 
@@ -39,15 +39,15 @@ We also have to divide the `postcard-body` in two inner `<div>` because we need 
 
 + This is how your website should look like: 
 
-![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
+    ![postcard body preview](../../assets/VZS6rNiYfC.gif?raw=true)
 
 ## 💡 Hint:
 
 + Your HTML file should look similar to this:
 
- ```html
+```html
    <div class="postcard-body">
 		<div class="body-left">--I am the left side--</div>
 		<div class="body-right">--I am the right side--</div>
 	</div>
-    ```
+```
