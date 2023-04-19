@@ -12,6 +12,6 @@ Un `<tag>` HTML es simplemente una oración que comienza y termina con la misma 
 
 > `<strong>` es un tag HTML utilizado para que el texto esté en negrita (más grueso).
 
-## 📝 Instructiones:
+## 📝 Instrucciones:
 
 1. Añade dentro de tu archivo `index.html` el código HTML que aparece en el ejemplo.
