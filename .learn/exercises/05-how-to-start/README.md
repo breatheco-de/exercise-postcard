@@ -14,7 +14,7 @@ Take a look at this animation that shows you what `<tags>` should be used on thi
 
 1. Memorize the 6 most important HTML `<tags>` and what they do: 
 
-| tag                   | usage                 |
+| Tag                   | Usage                 |
 | -----------------     | --------------------- |
 | `<p>`                 | for paragraphs        |
 | `<button>`            | for buttons           |
