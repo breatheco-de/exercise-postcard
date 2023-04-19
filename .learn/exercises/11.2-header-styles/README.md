@@ -10,7 +10,7 @@ If you build your postcard and preview, you will come to the following conclusio
 
 2. We need to make the image smaller.
 
-To move the image to the right you can use the `display:flex` property. When you apply it to any div, all of its children will be arranged horizontally instead of vertically (by default).
+To move the image to the right you can use the `display:flex` property. When you apply it to any `<div>`, all of its children will be arranged horizontally instead of vertically (by default).
 
 ![display flex vs block](../../assets/display-block-vs-flex.png?raw=true)
 
