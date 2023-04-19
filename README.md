@@ -9,18 +9,18 @@ Let's create a postcard with HTML5 and CSS, and then you can share it with your 
 ## 🌱  How to start this project?
 
 1. Make sure you have a Github account at:  https://github.com
-2. We recommend to open this reposiory using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively you can cloning it on your local computer using the `git clone` command. 
+2. We recommend opening this repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command. 
 
 This is the repository you need to open or clone:
 
-```
+```text
 https://github.com/breatheco-de/exercise-postcard
 ```
 
 **👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
 
-3. The exercises will start and show the instructions automatically but if you encounter any issues you can try running them manually by typing in your command line the following:
+3. The exercises will start and show the instructions automatically, but if you encounter any issues you can try running them manually by typing in your command line the following:
 
 ```bash
 $ learnpack start
@@ -32,7 +32,7 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://ra
 
 ![postcard preview](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png)
 
-> ✋ Here is the url for 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true)
+> ✋ Here is the url for the 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true)
 
 ## Create by drawing your strategy
 
