@@ -2,9 +2,11 @@ body {
 	background: black;
 }
 * {
-	border: 0;
-	min-height: 10px;
+    border: 1px dashed;
+    min-height: 10px;
 }
+
+
 .postcard {
 	background: white;
 	width: 400px;
