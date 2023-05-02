@@ -17,7 +17,7 @@ Este es el repositorio que debes abrir:
 https://github.com/breatheco-de/exercise-postcard
 ```
 
-**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
+**👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion). Importante --> Éste repositorio no es un template.
 
 ## Instrucciones
 
