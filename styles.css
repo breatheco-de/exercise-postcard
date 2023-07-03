@@ -1,0 +1,146 @@
+body {
+
+    background-color: black;
+}
+
+
+
+#C1 {
+
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 400px;
+    margin-left: 20px;
+    margin-right: 50%;
+    height: auto;
+
+    
+}
+
+.encabezado {
+   
+display: flex;
+float: right;
+justify-content: space-between;
+width: 100%;
+height: 100px;
+align-items: center;
+
+      
+}
+
+
+
+
+.ima img {
+    
+    float:left;
+    width: 60px;
+    height: 70px;
+
+    
+    
+}
+
+.texto {
+
+    font-size: 20px;
+    
+    
+}
+
+.contenido {
+
+    justify-content: space-between;
+    display: flex;
+    
+
+}
+
+
+.pie {
+
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.contenido {
+
+ width: 100%;
+ height: 200px;
+ justify-content:space-around
+ 
+
+
+}
+
+div.contenido {
+
+    position: relative;
+
+}
+
+div.texto {
+
+
+    width: 280px;
+    height: 90%;
+      
+    
+}
+
+.dat {
+
+    width: 290px;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+    
+    
+
+
+}
+
+
+input {
+
+    border: 0;
+    text-decoration: overline;
+    outline: 0px;
+    border-bottom: 1px solid #c7c7c7;
+    font-size: 20px;
+
+}
+
+
+.pie {
+
+    display: flex;
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.pie #weight {
+
+    width: 128px;
+    height: 25px;
+
+}
+
+
+
+
+
+
+ 
