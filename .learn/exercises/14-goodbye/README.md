@@ -1,4 +1,4 @@
-# `18` Goodbye
+# `14` Goodbye
 
 ## You did it, your postcard is ready! 👏
 
