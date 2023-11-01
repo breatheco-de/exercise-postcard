@@ -28,14 +28,17 @@ body {
 }
 .body-left p:first-child {
 	margin-top: x;
+	font-style: italic;
 }
 .body-left,
 .body-right {
 	padding: x;
+	font-style: oblique;
 }
 input {
-	border: 2px;
-	border-bottom: black;
+	border: none;
+	border-bottom: 1px black;
+	color: grey;
 }
 .postcard-footer {
 	text-align: center;
