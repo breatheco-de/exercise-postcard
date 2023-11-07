@@ -11,33 +11,41 @@ body {
 	width: 400px;
 	height: 300px;
 	margin: auto;
+  padding: 0px 10px;
 }
 .postcard-header {
 	display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .postcard-header img {
 	width: 50px;
 	height: 50px;
 }
-.postcard-header h1 {
-	width: 1000px;
-	margin: auto;
-}
 .postcard-body {
 	display: flex;
+  justify-content: space-between;
+/*   align-content: flex-start; */
 }
 .body-left p:first-child {
-	margin-top: x;
 	font-style: italic;
 }
 .body-left,
 .body-right {
-	padding: x;
 	font-style: oblique;
+   display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: start;
 }
+/* .body-right {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  } */
 input {
 	border: none;
-	border-bottom: 1px black;
+	border-bottom: 1px solid black;
 	color: grey;
 }
 .postcard-footer {
