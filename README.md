@@ -20,7 +20,7 @@ https://github.com/breatheco-de/exercise-postcard
 **👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
 
-3. The exercises will start and show the instructions automatically, but if you encounter any issues you can try running them manually by typing in your command line the following:
+3. The exercises will start and show the instructions automatically, but if you encounter any issues, you can try running them manually by typing in your command line the following:
 
 ```bash
 $ learnpack start
