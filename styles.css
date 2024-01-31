@@ -1,17 +1,23 @@
 body {
 	background: black;
 }
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
 input {
 	border: none;
-	border-bottom: grey;
+	border-bottom: 1px solid grey;
+	padding-top: 5px;
+	outline: none;
 }
+
+p {
+	text-align: justify;
+}
+
 button {
-	background-color: rgb(70, 145, 180);
+	background-color: rgb(150, 222, 255);
 	padding: 5px;
+}
+button:hover {
+	background-color: rgb(79, 166, 206);
 }
 
 .postcard {
@@ -23,6 +29,7 @@ button {
 
 .postcard-header {
 	display: flex;
+	padding: 10px;
 }
 .postcard-header img {
 	width: 50px;
