@@ -1,0 +1,76 @@
+body {
+	background: black;
+	font-family: "Montserrat", sans-serif;
+}
+
+.postcard {
+	background: white;
+	width: 550px;
+	height: 100%;
+	margin: auto;
+}
+.postcard-header {
+	margin: 0 10px;
+	height: 5rem;
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.postcard-header img {
+	position: relative;
+	width: 50px;
+	height: 50px;
+}
+.postcard-header h1 {
+	margin: 0;
+}
+.postcard-body {
+	display: flex;
+	margin: 0 7px;
+	padding: 1px;
+}
+.body-left {
+	width: 160%;
+	margin-right: 0.5rem;
+}
+.body-left p {
+	margin-top: 1rem;
+	font-size: 18px;
+}
+.body-left p:first-child {
+	margin-top: 0;
+}
+.body-left,
+.body-right {
+	padding: 3px;
+}
+input {
+	border: none;
+	border-bottom: 1px solid grey;
+	font-size: 18px;
+	margin-bottom: 0.5rem;
+}
+.postcard-footer {
+	text-align: center;
+	height: 6rem;
+}
+.postcard-footer button {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-size: 18px;
+	color: #333;
+	font-weight: bold;
+	background-color: #fff;
+	padding: 0.7rem 0.7rem;
+	border: 2px solid #333;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	transition: 0.3s ease;
+}
+.postcard-footer button:hover {
+	color: #fff;
+	background-color: #333;
+	box-shadow: none;
+	cursor: pointer;
+	transition: 0.3s ease;
+}
