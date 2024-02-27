@@ -6,7 +6,7 @@ tutorial: https://www.youtube.com/watch?v=7sFt2ztayBE
 
 Now it is time to include our content inside the `.postcard-header` div.
 
-The `postcard-header` contains one title on the left and one image on the right. 
+The `postcard-header` contains one title on the left and one image on the right.
 
 What HTML `<tags>` do you think we should use to represent a title and an image? 🤔
 
@@ -16,13 +16,16 @@ What HTML `<tags>` do you think we should use to represent a title and an image?
 
 2. Add a `<img>` tag inside the same `<div>`, the **image** and the **h1** must be siblings (immediate children of the `.postcard-header`)
 
-3. Make the image have this URL: 
+3. Make the image have this URL:
 
 ```text
 https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc850bd92aa1c2e19191837fb5c80/.learn/assets/4geeks.png
 ```
+
 ## Expected Result:
 
-+ If you `build` your page, it should look like this:
+- If you `build` your page, it should look like this:
 
-    ![Header Content Preview](../../assets/header-content.png?raw=true)
+  ![Header Content Preview](../../assets/header-content.png?raw=true)
+
+- `DON'T` forget that the **black background** and **red border** are only temporary guides to better differentiate our components, don't focus on them, they will be removed at the end.
