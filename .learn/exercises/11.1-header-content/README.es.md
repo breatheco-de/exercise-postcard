@@ -24,4 +24,7 @@ https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc85
 
   ![Header Content Preview](../../assets/header-content.png?raw=true)
 
-* `No` olvides que el **fondo negro** y el **borde rojo** solo son guías temporales para diferenciar mejor nuestros componentes, no te concentres en ellos, serán removidos al final.
+
+## 💡 Pista:
+
+- No olvides que el **fondo negro** y el **borde rojo** solo son guías temporales para diferenciar mejor nuestros componentes, no te concentres en ellos, serán removidos al final.
