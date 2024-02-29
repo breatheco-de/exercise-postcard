@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc85
 
 - If you `build` your page, it should look like this:
 
-  ![Header Content Preview](../../assets/header-content.png?raw=true)
+![Header Content Preview](../../assets/header-content.png?raw=true)
 
-- `DON'T` forget that the **black background** and **red border** are only temporary guides to better differentiate our components, don't focus on them, they will be removed at the end.
+## 💡 Hint:
+
+- Don't forget that the **black background** and **red border** are only temporary guides to better differentiate our components, don't focus on them, they will be removed later.
