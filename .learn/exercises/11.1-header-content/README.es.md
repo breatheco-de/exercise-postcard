@@ -10,7 +10,7 @@ En el diseño que debemos realizar, el `postcard-header` tiene un título a la i
 
 1. Agrega un tag `<h1>` dentro del contenido de `.postcard-header`, cuyo texto debe ser **"My Postcard"** (asegúrate de que el **h1** contenga el título deseado para el postcard).
 
-2. Agrega un tag `<img>` dentro del mismo `<div>`. La **imagen** y el **h1** deben ser hermanos (hijos inmediatos del `.postcard-header`) 
+2. Agrega un tag `<img>` dentro del mismo `<div>`. La **imagen** y el **h1** deben ser hermanos (hijos inmediatos del `.postcard-header`)
 
 3. Haz que la imagen tenga este URL:
 
@@ -20,6 +20,11 @@ https://raw.githubusercontent.com/breatheco-de/exercise-postcard/e63a7916530cc85
 
 ## Resultado Esperado:
 
-+ Si le haces `build` a tu página, debería verse así:
+- Si le haces `build` a tu página, debería verse así:
 
-    ![Header Content Preview](../../assets/header-content.png?raw=true)
+  ![Header Content Preview](../../assets/header-content.png?raw=true)
+
+
+## 💡 Pista:
+
+- No olvides que el **fondo negro** y el **borde rojo** solo son guías temporales para diferenciar mejor nuestros componentes, no te concentres en ellos, serán removidos al final.
