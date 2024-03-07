@@ -1,5 +1,4 @@
 * {
-	border: 1px dashed red;
 	min-height: 10px;
 }
 body {
@@ -11,6 +10,7 @@ body {
 	width: 400px;
 	height: 300px;
 	margin: auto;
+	padding: 10px;
 }
 
 .postcard-header {
