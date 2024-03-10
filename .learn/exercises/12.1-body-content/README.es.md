@@ -47,3 +47,4 @@ input {
 ## 💡 Pista:
 
 + Piensa en el layout (diseño) de esos tags. Los inputs estarán uno sobre el otro.
++ Esta increíble lectura te mostrará todo lo que necesitas saber sobre el `tag <input>` para completar con éxito el ejercicio https://www.w3schools.com/tags/tag_input.asp
