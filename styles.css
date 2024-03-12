@@ -2,7 +2,7 @@ body {
 	background: black;
 }
 * {
-	border: 1px dashed red;
+	/*border: 1px dashed red;*/
 	min-height: 10px;
 }
 .postcard {
@@ -50,6 +50,7 @@ body {
 }
 .postcard-footer {
 	text-align: center;
+	font-weight: bold;
 	padding: 5px;
 }
 button:hover {
