@@ -1,0 +1,55 @@
+body {
+	background: black;
+
+	// <uniquifier>: Use a unique and descriptive class name
+	// <weight>: Use a value from 400 to 700
+
+	.edu-nsw act foundation-<uniquifier > {
+		font-family: "Edu NSW ACT Foundation", cursive;
+		font-optical-sizing: auto;
+		font-weight: <weight>;
+		font-style: normal;
+	}
+}
+
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-header {
+	display: flex;
+	padding: 5%;
+}
+
+.postcard-header h1 {
+	width: 100%;
+	margin-top: 0%;
+}
+
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+}
+.postcard-body {
+	display: flex;
+}
+.body-left p:first-child {
+	margin-top: 0%;
+}
+.body-left .body-right {
+	padding: 10%;
+}
+input {
+	border: none;
+	border-bottom: 1px gray solid;
+}
+.postcard-footer {
+	text-align: center;
+}
+button {
+	background-color: hsl(41, 70%, 84%);
+	padding: 5px 10px;
+	border: none;
+}
