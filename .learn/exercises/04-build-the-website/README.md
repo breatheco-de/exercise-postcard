@@ -4,11 +4,11 @@ Now it's time to see how your changes look like on your website!
 
 ## 📝 Instructions:
 
-1. Click the `build` button in the upper left corner, above the instructions, to see your website live.
+1. Click the `Run` button in the upper left corner, above the instructions, to see your website live.
 
 ## 💡 Hint:
 
-![build button](../../assets/build.png?raw=true) 
+![Run button](../../assets/run-button.png) 
 
 ## 🔎 Important:
 
