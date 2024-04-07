@@ -14,7 +14,8 @@ const DOM = (path=null, html=null, context) => {
         htmlContent = fs.readFileSync(path, 'utf8')
     }
     document.documentElement.innerHTML = htmlContent.toString();
-    let _document = document.cloneNode(true);
+    let _document = document // The current version of jest doesn't fully support the stylesheets in cloned elements
+    // let _document = document.cloneNode(true);
 
     return {
         raw: htmlContent,
