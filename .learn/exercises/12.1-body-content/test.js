@@ -26,6 +26,7 @@ test("Create a <div> inside the .postcard-body and add the class .body-left to i
 })
 
 test("Create a <div> inside the .postcard-body and add the class .body-right to it", function(){
+    dom = fromFile();
     const e=dom.querySelector('.postcard-body').inside().querySelector('div.body-right')
     expect(e).toBeTruthy();
 })

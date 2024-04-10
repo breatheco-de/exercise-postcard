@@ -26,11 +26,13 @@ test("Create a div with class postcard-header as child of .postcard", function()
 })
 
 test("Create a div with class postcard-body as child of .postcard", function(){
+    dom = fromFile();
     const e=dom.querySelector('.postcard').inside().querySelector('.postcard-body')
     expect(e).toBeTruthy();
 })
 
 test("Create a div with class postcard-footer as child of .postcard", function(){
+    dom = fromFile();
     const e=dom.querySelector('.postcard').inside().querySelector('.postcard-footer')
     expect(e).toBeTruthy();
 })
