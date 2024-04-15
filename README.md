@@ -33,6 +33,8 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://ra
 ![postcard preview](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png)
 
 > ✋ Here is the url for the 4Geeks logo: [https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/4geeks.png?raw=true)
+>
+> You can use any font that is similar to the one shown in the image. The idea is for you to learn how to add a Google font to your project :)
 
 ## Create by drawing your strategy
 
