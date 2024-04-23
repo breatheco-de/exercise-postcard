@@ -53,5 +53,11 @@
     ],
     "editor": {
         "version": "3.1.23"
+    },
+	"video": {
+		"intro": {
+			"en": "https://www.youtube.com/watch?v=rvVPyewhFSU",
+			"es": "https://www.youtube.com/watch?v=rvVPyewhFSU"
+		}
     }
 }
