@@ -2,9 +2,9 @@
 # The Postcard
 <!-- endhide -->
 
-Who does not like postcards? This is one of your first exercises (if not the first), and it's fun and relatively easy :)
+Who doesn't like postcards? This is one of your first exercises (if not the first), and it's fun and relatively easy :)
 
-Let's create a postcard with HTML5 and CSS, and then you can share it with your mom or your other half; they will be proud! :)
+Let's create a postcard with HTML5 and CSS3, and then you can share it with your mom or your other half; they will be proud! :)
 
 ## 🌱  How to start this project?
 
@@ -28,7 +28,7 @@ $ learnpack start
 
 ## Instructions
 
-Create the HTML and CSS needed to replicate [this exact same picture](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png).
+Create the HTML and CSS3 needed to replicate [this exact same picture](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png).
 
 ![postcard preview](https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png)
 
@@ -45,9 +45,9 @@ There is a video about this exercise, watch it if you are lost. But don't copy e
 ## Fundamentals
 This exercise covers the following fundamentals:
 1. Basic structure for every HTML5 website.  
-2. The *Link* tag to import CSS Rules.  
+2. The *Link* tag to import CSS3 Rules.  
 3. Using google fonts.  
-3. Using the different selectors available in CSS.  
+3. Using the different selectors available in CSS3.  
 4. Working with containers or boxes: border, padding, and margins.  
 5. Overflow.  
 6. Using a simple form.  
