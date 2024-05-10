@@ -38,6 +38,17 @@ Create the HTML and CSS3 needed to replicate [this exact same picture](https://r
 
 ![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/raw/main/.learn/assets/strategy.gif?raw=true)
 
+## You can add different fonts by using free [Google Fonts](https://fonts.google.com/)
+
+1. Click on the font you like.
+
+2. Click get font.
+
+3. Click on Embed code.
+
+4. Add the link tags to your html file.
+
+
 ## What to do if you are stuck?
 
 There is a video about this exercise, watch it if you are lost. But don't copy everything, try to code some of your own.
