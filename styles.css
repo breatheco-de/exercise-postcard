@@ -37,7 +37,7 @@ body {
 
 input {
 	border: none;
-	border-bottom: gray !important;
+	border-bottom: gray;
 	margin: auto;
 	color: gray;
 	font-size: 16px;
