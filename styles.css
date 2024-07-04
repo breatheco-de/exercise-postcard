@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #bdbdbd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.postal {
+    width: 600px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    display: flex;
+}
+
+.left-column {
+    flex: 1;
+}
+
+.right-column {
+    flex: 1;
+    position: relative;
+    padding-left: 20px;
+}
+
+.image-container {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 50px; /* Adjust as necessary */
+}
+
+.form-group {
+    margin-top: 60px; /* Adjust according to the size of your image */
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
