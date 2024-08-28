@@ -13,12 +13,6 @@ div {
 .postcard-header {
 	display: flex;
 }
-.postcard-header h1 {
-	padding: 10px;
-}
-h1 {
-	font-family: italic;
-}
 .postcard-header img {
 	width: 50px;
 	height: 50px;
@@ -27,6 +21,10 @@ h1 {
 	width: 350px;
 	height: 50px;
 	margin: 0;
+	padding: 10px;
+}
+h1 {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .postcard-body {
 	display: flex;
@@ -37,7 +35,6 @@ h1 {
 }
 .body-right {
 	width: 200px;
-	height: 30px;
 	padding: 10px;
 }
 .child1,
@@ -50,6 +47,8 @@ h1 {
 input {
 	border: none;
 	border-bottom: 1px grey solid;
+	font-family: italic;
+	font-size: 16px;
 }
 .postcard-footer {
 	text-align: center;
