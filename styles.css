@@ -1,0 +1,74 @@
+body {
+	background: black;
+}
+
+.postcard {
+	width: 400px;
+	height: 350px;
+	margin: auto;
+	background-image: url(https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/506/2020/08/31113824/tmpc784e783-c11d-4a32-8ed0-5b6e4f97bba4-1024x538.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.postcard h1 {
+	color: rgb(87, 79, 206);
+	padding: 0px 100px 0px 20px;
+}
+.postcard-header {
+	display: flex;
+}
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+}
+.postcard-header h1 {
+	width: 300px;
+	margin: 0;
+}
+.postcard-body {
+	display: flex;
+}
+.body-left {
+	width: 180px;
+	margin: 10px;
+	background: magenta;
+}
+.body-left h3 {
+	margin-top: 5px;
+	margin-bottom: 1px;
+	padding: 0px 10px 10px 10px;
+	font-family: "Playwrite CU", cursive;
+	font-size: medium;
+}
+.body-left p {
+	margin-top: 0;
+	padding: 5px;
+	font-family: "Playwrite CU", cursive;
+	font-size: small;
+}
+.body-left h5 {
+	padding: 10px;
+	font-style: oblique;
+	font-family: "Trebuchet MS";
+	color: rgb(4, 13, 88);
+}
+.body-right {
+	width: 180px;
+	margin: 10px;
+}
+.body-right label {
+	color: cornsilk;
+}
+.postcard-footer {
+	text-align: center;
+}
+button {
+	background-color: blue;
+	padding: 15px;
+	font-style: italic;
+	color: white;
+}
+button:hover {
+	background-color: yellow;
+	color: black;
+}
