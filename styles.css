@@ -19,7 +19,7 @@ body {
 	height: 50px;
 }
 .postcard-header h1 {
-	width: 50px;
+	width: 350px;
 	margin: 0;
 }
 .postcard-body {
@@ -40,6 +40,6 @@ input {
 	text-align: center;
 }
 button {
-	background-color: black;
+	background-color: blueviolet;
 	padding: 20px;
 }
