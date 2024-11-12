@@ -1,16 +1,15 @@
 {
-    "title": "Build a Digital Postcard with HTML/CSS",
+    "title": {
+	"us": "Build a Digital Postcard with HTML/CSS",
+	"es": "Construye una tarjeta postal con HTML/CSS
+    }
     "slug": "exercise-postcard",
     "status": "published",
     "grading": "incremental",
-    "translations": [
-        "es",
-        "us"
-    ],
     "repository": "https://github.com/breatheco-de/exercise-postcard",
     "solution": "https://github.com/breatheco-de/exercise-postcard/tree/solution",
     "duration": 4,
-    "language": "auto",
+    "template_url": "https://github.com/4GeeksAcademy/html-hello",
     "skills": [
         "html-layouts"
     ],
@@ -23,7 +22,10 @@
         "css",
 	"layouts"
     ],
-    "description": "Replicate this postcard with CSS and HTML",
+    "description": {
+	"us": "The Postcard is a beginner-friendly exercise designed to help you practice your first steps in HTML5 and CSS3 by creating a personalized postcard. You'll replicate a pre-designed postcard layout (just like a potential employer will ask you in the future) while learning about HTML structure, CSS styling, and working with Google Fonts. Share your finished postcard with someone special and showcase your creativity!",
+	"es": "La Postcard es un ejercicio ideal para principiantes diseñado para ayudarte a practicar tus primeros pasos en HTML5 y CSS3 creando una postal personalizada. Replicarás el diseño de una postal predefinida (tal como un posible empleador podría pedirte en el futuro) mientras aprendes sobre la estructura de HTML, el estilo con CSS y el uso de Google Fonts. ¡Comparte tu postal terminada con alguien especial y muestra tu creatividad!"
+    },
     "preview": "https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true",
     "talents": [
         {
