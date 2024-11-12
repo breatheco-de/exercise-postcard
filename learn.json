@@ -2,7 +2,7 @@
     "title": {
 	"us": "Build a Digital Postcard with HTML/CSS",
 	"es": "Construye una tarjeta postal con HTML/CSS"
-    }
+    },
     "slug": "exercise-postcard",
     "grading": "incremental",
     "repository": "https://github.com/breatheco-de/exercise-postcard",
@@ -54,10 +54,10 @@
     "editor": {
         "version": "4.0.0"
     },
-	"video": {
-		"intro": {
-			"en": "https://www.youtube.com/watch?v=rvVPyewhFSU",
-			"es": "https://www.youtube.com/watch?v=rvVPyewhFSU"
-		}
+    "video": {
+	"intro": {
+		"en": "https://www.youtube.com/watch?v=rvVPyewhFSU",
+		"es": "https://www.youtube.com/watch?v=rvVPyewhFSU"
+	}
     }
 }
