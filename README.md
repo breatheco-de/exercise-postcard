@@ -6,6 +6,8 @@ Who doesn't like postcards? This is one of your first exercises (if not the firs
 
 Let's create a postcard with HTML5 and CSS3, and then you can share it with your mom or your other half; they will be proud! :)
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project?
 
 1. Make sure you have a Github account at:  https://github.com
@@ -25,6 +27,8 @@ https://github.com/breatheco-de/exercise-postcard
 ```bash
 $ learnpack start
 ```
+
+</onlyfor>
 
 ## Instructions
 
