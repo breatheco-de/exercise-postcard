@@ -6,6 +6,8 @@
 
 Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre o con tu otra mitad, ¡ella/él se va a sentir orgullosa/o! :)
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  ¿Cómo iniciar este proyecto?
 
 1. Asegura que ya tienes una cuenta en GitHub:  https://github.com
@@ -18,6 +20,8 @@ https://github.com/breatheco-de/exercise-postcard
 ```
 
 **👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion). Importante --> Éste repositorio no es un template.
+
+</onlyfor>
 
 ## Instrucciones
 
