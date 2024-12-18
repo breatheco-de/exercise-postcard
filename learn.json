@@ -14,7 +14,9 @@
     "difficulty": "beginner",
     "videoSolutions": true, 
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+    "template_url": "self",
     "projectType": "tutorial",
+    "autoPlay": "true",
     "technologies": [
         "html",
         "css",
