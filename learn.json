@@ -27,32 +27,7 @@
 	"es": "La Postcard es un ejercicio ideal para principiantes diseñado para ayudarte a practicar tus primeros pasos en HTML5 y CSS3 creando una postal personalizada. Replicarás el diseño de una postal predefinida (tal como un posible empleador podría pedirte en el futuro) mientras aprendes sobre la estructura de HTML, el estilo con CSS y el uso de Google Fonts. ¡Comparte tu postal terminada con alguien especial y muestra tu creatividad!"
     },
     "preview": "https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true",
-    "talents": [
-        {
-            "badge": "identator",
-            "points": 10
-        },
-        {
-            "badge": "tag-master",
-            "points": 10
-        },
-        {
-            "badge": "path-master",
-            "points": 10
-        },
-        {
-            "badge": "select-everything",
-            "points": 10
-        },
-        {
-            "badge": "be-dry",
-            "points": 10
-        },
-        {
-            "badge": "abc",
-            "points": 10
-        }
-    ],
+    "talents": [],
     "editor": {
         "version": "5.0"
     },
@@ -61,5 +36,8 @@
 		"en": "https://www.youtube.com/watch?v=rvVPyewhFSU",
 		"es": "https://www.youtube.com/watch?v=rvVPyewhFSU"
 	}
+    },
+    "telemetry": {
+	"batch":"https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=167"
     }
 }
