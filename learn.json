@@ -29,7 +29,8 @@
     "preview": "https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/preview.png?raw=true",
     "talents": [],
     "editor": {
-        "version": "5.0"
+        "version": "5.0",
+	"agent": "vscode"
     },
     "video": {
 	"intro": {
