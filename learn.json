@@ -1,5 +1,6 @@
 {
-    "title": {
+    "gitpod": true,
+     "title": {
 	"us": "Build a Digital Postcard with HTML/CSS",
 	"es": "Construye una tarjeta postal con HTML/CSS"
     },
