@@ -4,11 +4,7 @@
 
 ## 📝 Instrucciones:
 
-1. Haz clic en botón `Run` en la esquina superior izquierda, sobre las instrucciones, para ver tu website en vivo. 
-
-## 💡 Pista: 
-
-![Run button](../../assets/run-button.png) 
+1. Haz clic en botón `Ejecutar`, para ver tu website en vivo. 
 
 ## 🔎 Importante:
 

@@ -4,11 +4,7 @@ Now it's time to see how your changes look like on your website!
 
 ## 📝 Instructions:
 
-1. Click the `Run` button in the upper left corner, above the instructions, to see your website live.
-
-## 💡 Hint:
-
-![Run button](../../assets/run-button.png) 
+1. Click the `Run`, to see your website live.
 
 ## 🔎 Important:
 
