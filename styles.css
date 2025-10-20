@@ -1,0 +1,59 @@
+body {
+	background: black;
+}
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-header {
+	display: flex;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+		sans-serif;
+}
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+}
+.postcard-header h1 {
+	width: 350px;
+	margin: 5px;
+}
+.postcard-body {
+	display: flex;
+}
+.body-left p:first-child {
+	margin-top: 10;
+}
+.body-left {
+	padding: 1px;
+	margin: 1px;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.body-right p:first-child {
+	margin-top: 10;
+}
+.body-right {
+	padding: 10px;
+	padding-left: 40px;
+	margin: 10px;
+	color: rgb(174, 172, 172);
+	text-decoration: underline;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+input {
+	border: none;
+	border-bottom: rgb(0, 0, 0);
+}
+.postcard-footer {
+	text-align: center;
+}
+button {
+	background-color: rgb(206, 199, 199);
+	padding: 10px;
+}
