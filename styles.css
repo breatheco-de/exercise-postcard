@@ -2,7 +2,6 @@ body {
 	background: black;
 }
 * {
-	border: 1px dashed red;
 	min-height: 10px;
 }
 .postcard {
@@ -36,14 +35,14 @@ body {
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 .body-right p:first-child {
-	margin-top: 10;
+	margin-top: 10px;
 }
 .body-right {
+	text-decoration-line: underline;
 	padding: 10px;
-	padding-left: 40px;
-	margin: 10px;
+	padding-left: 10px;
+	margin: 1px;
 	color: rgb(174, 172, 172);
-	text-decoration: underline;
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 input {
