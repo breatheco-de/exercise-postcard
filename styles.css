@@ -44,6 +44,8 @@ body {
 	margin: 1px;
 	color: rgb(174, 172, 172);
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-size: 35px;
+	
 }
 input {
 	border: none;
