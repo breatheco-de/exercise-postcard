@@ -1,0 +1,26 @@
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+p {
+	color: blue;
+}
+.postcard {
+	/* your styles here */
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-header {
+	display: flex;
+}
+.postcard-header h1 {
+	width: x;
+	margin: x;
+
+}
+
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+}
