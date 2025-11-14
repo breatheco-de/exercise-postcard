@@ -1,0 +1,89 @@
+.postcard {
+	border: 1px solid black;
+	border-radius: 10px;
+	width: 400px;
+	height: 350px;
+	margin: auto;
+	background: rgb(0 255 200 / 50%);
+	font-size: 20px;
+}
+.postcard-header {
+	display: flex;
+}
+
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+}
+.postcard-header h1 {
+	width: 350px;
+	margin: 0px;
+}
+.postcard-body {
+	display: flex;
+}
+.body-right p:first-child {
+	margin-top: 0;
+}
+.body-left,
+.body-right {
+	padding: 10px;
+}
+
+input {
+	border: none;
+	border-bottom: 1px solid grey;
+	font-family: "Great Vibes", cursive;
+	font-size: 1.1em;
+	padding: 5px 10px;
+	letter-spacing: 1px;
+}
+
+input:not(:placeholder-shown) {
+	background: rgba(0, 255, 200, 0);
+}
+
+input hover {
+	background-color: rgba(255, 0, 255, 0.5);
+}
+.postcard-footer {
+	text-align: center;
+}
+button {
+	background-color: rgba(128, 0, 128, 0.5);
+	padding: 1%;
+	transition: background 0.5s, color 3s, transform 380ms;
+}
+
+button:hover {
+	background: rgba(0, 255, 200, 0);
+	transform: scale(200%);
+}
+img {
+	border-radius: 100%;
+	filter: invert(100%);
+}
+.surprisee {
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	filter: invert(100%);
+	transition: opacity 1.3s;
+}
+.surprise {
+	opacity: 0;
+	transition: opacity 1.3s;
+	position: top right;
+}
+
+.postcard-header > div {
+	position: relative;
+	display: inline-block;
+}
+
+.postcard-header > div:hover .surprise {
+	opacity: 1;
+}
+.postcard-header > div:hover .surprisee {
+	opacity: 0;
+}
