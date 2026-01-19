@@ -1,0 +1,71 @@
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+
+body {
+	background: black;
+}
+
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+
+.postcard-header {
+	display: flex;
+	font-family: "Lavishly Yours", cursive;
+	font-weight: 400;
+}
+
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+}
+
+.postcard-header h1 {
+	width: 90%;
+	margin: 0;
+}
+
+.postcard-body {
+	display: flex;
+}
+
+.body-left,
+.body-right {
+	padding: 10px;
+	font-family: "Rouge Script", cursive;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.body-left p:first-child {
+	margin-top: 0px;
+}
+
+input {
+	border: none;
+	border-bottom: 1px solid gray;
+	font-family: "Rouge Script", cursive;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.postcard-footer {
+	text-align: center;
+}
+
+button {
+	background-color: darkblue;
+	padding: 1px;
+	color: white;
+}
+
+button:active {
+	background-color: #4caf50; /* Green background while pressed */
+	color: white;
+	border-color: #4caf50;
+}
