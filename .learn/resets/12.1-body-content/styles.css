@@ -1,0 +1,40 @@
+body {
+	background: black;
+}
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-header {
+	display: flex;
+}
+
+.postcard-header img {
+	width: 50px;
+	width: 50px;
+}
+
+.postcard-body {
+	display: flex;
+}
+
+
+.body-left p:first-child {
+	margin-top: x;
+}
+
+body-left,
+.body-right {
+	padding: x;
+}
+
+input {
+	border: x;
+	border-bottom: x;
+}
