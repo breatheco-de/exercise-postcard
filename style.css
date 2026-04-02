@@ -1,0 +1,18 @@
+p {
+    color: blue;
+}
+
+/* Selector de clase (mayor prioridad que etiqueta) */
+.parrafo {
+    color: green;
+}
+
+/* Selector de ID (mayor prioridad que clase) */
+#parrafo-especifico {
+    color: orange;
+}
+
+/* Selector con mayor especificidad */
+body p.parrafo {
+    color: purple;
+}
