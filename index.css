@@ -1,0 +1,85 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    margin:0;
+}
+
+.postcard {
+    height: 300px;
+    width: 600px;
+    border: 1px solid #000;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+    display:flex;
+    width:100%;
+    justify-content:space-between;
+    align-items:center;
+}
+
+main{
+    flex:1;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid #000;
+    background: transparent;
+    outline: none; 
+}
+
+h1 {
+	font-family: "Playfair Display";
+    margin:0;
+}
+
+p{
+    font-family: "Plus Jakarta Sans";
+}
+
+aside{
+   flex:1;
+}
+
+.postcard-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    padding:0 10px;
+}
+
+.round-image {
+    width: 50px;
+    height: 50px;
+    background-image: url('https://ebootcamp.net/wp-content/uploads/2021/11/4Geeks-Academy-300x300.jpeg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+footer {
+    margin-top: auto;
+    text-align: center;
+    font-size: 0.8em;
+    color: #555;
+    width: 100%;
+}
+
+button{
+    background-color: #c0c0c0;
+    color:#fff;
+    border:none;
+    padding:10px 20px;
+    border-radius:3px;
+    cursor:pointer;
+}
