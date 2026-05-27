@@ -4,7 +4,7 @@
 
 ¿A quién no le gustan las postales? Este es uno de tus primeros ejercicios (si no es el primero) y es divertido y relativamente fácil :)
 
-Vamos a crear una postal con HTML5 y CSS y luego puedes compartirla con tu madre o con tu otra mitad, ¡ella/él se va a sentir orgullosa/o! :)
+Vamos a crear una postal con HTML5 y CSS, y luego puedes compartirla con tu madre o con tu otra mitad, ¡ella/él se va a sentir orgullosa/o! si no a tu gato :)
 
 <onlyfor saas="false" withBanner="false">
   
@@ -31,13 +31,13 @@ Crea el HTML y CSS necesario para replicar [esta imagen de forma precisa](https:
 
 > ✋ Aquí tienes la url del logo de 4Geeks: [http://assets.breatheco.de/apis/img/icon/4geeks.png](http://assets.breatheco.de/apis/img/icon/4geeks.png)
 
-## Empieza por dibujar tu estrategia
+## Empieza por dibujar tú estrategia
 
 ![Postcard Strategy](https://github.com/breatheco-de/exercise-postcard/blob/main/.learn/assets/strategy.gif?raw=true)
 
 ## ¿Qué hacer si estás atascado?
 
-Hay un video sobre este ejercicio, míralo si estás perdido. Pero no copies todo, trata de colocar tu propio código.
+Hay un video sobre este ejercicio, míralo si estás perdido. Pero no copies todo, trata de colocar tú propio código.
 
 ## Fundamentos
 Este ejercicio cubre los siguientes fundamentos:
