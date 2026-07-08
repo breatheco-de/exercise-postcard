@@ -1,0 +1,95 @@
+body {
+	background: black;
+	font-family: Montserrat, sans-serif;
+}
+
+p {
+	color: brown;
+	font-family: Montserrat, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-family: Montserrat, sans-serif;
+}
+
+.postcard {
+	background-color: #EDE8D0;
+	width: 525px;
+	height: 390px;
+	margin: auto;
+	border-radius: 15px;
+}
+
+.postcard-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
+
+.postcard-header img {
+	width: 50px;
+	height: x;
+	padding: 10px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	object-position: center;
+	border-radius: 15px;
+}
+
+.postcard-header h1 {
+	margin: 0;
+	text-align: left;
+}
+
+.postcard-body {
+	display: flex;
+}
+
+.body-left p:first-child {
+	margin-top: 0;
+}
+
+.body-right p {
+	margin-top: 0;
+	color: grey;
+}
+
+.body-left,
+.body-right {
+	padding: 10px;
+}
+
+input {
+	border: none;
+	border-bottom: 1px solid #ccc;
+}
+
+.postcard-footer {
+	text-align: center;
+	padding: 10px;
+}
+
+button {
+	background: brown;
+	width: 185px;
+	height: 75px;
+	padding: 5px;
+	color: white;
+	border-radius: 15px;
+	font-size: 20px;
+
+}
+
+button:hover {
+	background: darkgrey;
+	text-decoration: none;
+}
+
+button:a:hover {
+	background: darkgrey;
+	text-decoration: none;
+}
