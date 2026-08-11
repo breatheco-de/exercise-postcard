@@ -1,0 +1,59 @@
+{
+  "00-welcome": {
+    "us": "00-welcome"
+  },
+  "01-design": {
+    "us": "01-design"
+  },
+  "02-create-index": {
+    "us": "02-create-index"
+  },
+  "03-add-first-html": {
+    "us": "03-add-first-html"
+  },
+  "04-build-the-website": {
+    "us": "04-build-the-website"
+  },
+  "05-how-to-start": {
+    "us": "05-how-to-start"
+  },
+  "06-lets-start-building": {
+    "us": "06-lets-start-building"
+  },
+  "07-the-first-div": {
+    "us": "07-the-first-div"
+  },
+  "08-adding-styles": {
+    "us": "08-adding-styles"
+  },
+  "08.1-red-borders": {
+    "us": "08.1-red-borders"
+  },
+  "09-connecting-stylesheet": {
+    "us": "09-connecting-stylesheet"
+  },
+  "10-center-postcard": {
+    "us": "10-center-postcard"
+  },
+  "11-postcard-divisions": {
+    "us": "11-postcard-divisions"
+  },
+  "11.1-header-content": {
+    "us": "11.1-header-content"
+  },
+  "11.2-header-styles": {
+    "us": "11.2-header-styles"
+  },
+  "12-split-postcard-body": {
+    "us": "12-split-postcard-body"
+  },
+  "12.1-body-content": {
+    "us": "12.1-body-content"
+  },
+  "13-check-your-code": {
+    "us": "13-check-your-code"
+  },
+  "14-goodbye": {
+    "us": "14-goodbye"
+  }
+}
